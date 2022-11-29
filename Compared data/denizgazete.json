@@ -1,0 +1,3715 @@
+{
+  "AnadoluAjansi": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "AnadoluAjansi": "Galatasaray, Okan Buruk ile resmi sözleşme imzaladı",
+      "score": 0.2246813029050827
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "AnadoluAjansi": "Bakan Kirişci: Marmaris'teki orman yangınınına müdahale eden hava aracı sayısı 41'e ulaştı ",
+      "score": 0.24943652749061584
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "AnadoluAjansi": "Bakan Kirişci: \"Şu an itibariyle çok daha iyi durumda olduğumuzu söyleyebiliriz\"\r  ",
+      "score": 0.4335588812828064
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "AnadoluAjansi": "Bakan Kirişci: \"Şu an itibariyle çok daha iyi durumda olduğumuzu söyleyebiliriz\"\r  ",
+      "score": 0.3674886226654053
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "AnadoluAjansi": "Kalesinterflex, Senegal'deki Birleşmiş Milletler Evi'nde kullanıldı",
+      "score": 0.2216017246246338
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "AnadoluAjansi": "\"Hareketsiz yaşam tarzı varisi tetikliyor\" uyarısı",
+      "score": 0.20384356379508972
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "AnadoluAjansi": "Kalesinterflex, Senegal'deki Birleşmiş Milletler Evi'nde kullanıldı",
+      "score": 0.20015056431293488
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "AnadoluAjansi": "Bakan Çavuşoğlu: Ukrayna tahılının ya da herhangi bir ürününün illegal şekilde satılmasına karşıyız",
+      "score": 0.34849411249160767
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "AnadoluAjansi": "İtalya'da haziranda başlayan kuraklık, yazın geri kalanı için büyük endişe kaynağı",
+      "score": 0.2665398120880127
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "AnadoluAjansi": "Bayraktar AKINCI'dan bir irtifa rekoru daha\r  ",
+      "score": 0.25167420506477356
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "AnadoluAjansi": "Milli atıcılar ilk olimpiyat madalyasını Paris'ten getireceklerine inanıyor",
+      "score": 0.32474687695503235
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "AnadoluAjansi": "Afganistan'daki depremde hayatını kaybedenlerin sayısı 1000'e yükseldi",
+      "score": 0.23820719122886658
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "AnadoluAjansi": "Mekke'ye ulaşan hacı adayları, ibadetlerine başladı",
+      "score": 0.27500781416893005
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "AnadoluAjansi": "Rusya-Ukrayna savaşında 120 gün geride kaldı",
+      "score": 0.2671041786670685
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "AnadoluAjansi": "Bayraktar AKINCI'dan bir irtifa rekoru daha\r  ",
+      "score": 0.35597723722457886
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "AnadoluAjansi": "Bakan Kirişci: Marmaris'teki orman yangınınına müdahale eden hava aracı sayısı 41'e ulaştı ",
+      "score": 0.3327528238296509
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "AnadoluAjansi": "Tekirdağ'da 'mor kadraj' sezonu",
+      "score": 0.28046831488609314
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "AnadoluAjansi": "Bakan Kirişci: Marmaris'teki orman yangınınına müdahale eden hava aracı sayısı 41'e ulaştı ",
+      "score": 0.34058666229248047
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "AnadoluAjansi": "Bayraktar AKINCI'dan bir irtifa rekoru daha\r  ",
+      "score": 0.3002183437347412
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "AnadoluAjansi": "Marmaris'teki orman yangınında zarar gören alanlar havadan görüntülendi\r  ",
+      "score": 0.29622524976730347
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "AnadoluAjansi": "Kahramanmaraş'ta ürünlerin raf ömrünü uzatan organik ambalaj geliştirip 15 ülkeye ihraç ettiler",
+      "score": 0.241388738155365
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "AnadoluAjansi": "Tekirdağ'da 'mor kadraj' sezonu",
+      "score": 0.281506210565567
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "AnadoluAjansi": "Avrupa'da doğal gaz fiyatları iki haftada yüzde 60 arttı",
+      "score": 0.23390308022499084
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "AnadoluAjansi": "Bayraktar AKINCI'dan bir irtifa rekoru daha\r  ",
+      "score": 0.22068995237350464
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "AnadoluAjansi": "Bayraktar AKINCI'dan bir irtifa rekoru daha\r  ",
+      "score": 0.2822044789791107
+    }
+  ],
+  "Altinok": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "Altinok": "Türkiye Değişim Partisi kuruluyor!",
+      "score": 0.2745239734649658
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "Altinok": "Avustralya’dan yarı kapasitede zirai uçak kiralandı: THK uçaklarının kapasitesi yeterli bulunmamıştı",
+      "score": 0.23694534599781036
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "Altinok": "Türkiye Değişim Partisi kuruluyor!",
+      "score": 0.24390088021755219
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "Altinok": "Kıyı kenar çizgisi ile ilgili düzenlemeyi savunan Çevre Bakanlığı’ndan işgal itirafı",
+      "score": 0.2785242795944214
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "Altinok": "Avustralya’dan yarı kapasitede zirai uçak kiralandı: THK uçaklarının kapasitesi yeterli bulunmamıştı",
+      "score": 0.19877585768699646
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "Altinok": "Muğla’da ormanlar yine yandı ciğerlerimiz kül oldu",
+      "score": 0.22502905130386353
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "Altinok": "İYİ Parti lideri Meral Akşener: ‘Yangın söndürme uçağımız yok’ diyen kepazeliği unutmadık",
+      "score": 0.2717101275920868
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "Altinok": "Avustralya’dan yarı kapasitede zirai uçak kiralandı: THK uçaklarının kapasitesi yeterli bulunmamıştı",
+      "score": 0.24502654373645782
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "Altinok": "Kıyı kenar çizgisi ile ilgili düzenlemeyi savunan Çevre Bakanlığı’ndan işgal itirafı",
+      "score": 0.26461678743362427
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "Altinok": "Türkiye Değişim Partisi kuruluyor!",
+      "score": 0.2105640321969986
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "Altinok": "Gözler hem Merkez’de hem rezervde: 20 yılın en düşük seviyesi bekleniyor",
+      "score": 0.3012804090976715
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "Altinok": "Kıyı kenar çizgisi ile ilgili düzenlemeyi savunan Çevre Bakanlığı’ndan işgal itirafı",
+      "score": 0.18668687343597412
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "Altinok": "Suudi Arabistan Veliaht Prensi Selman ile Erdoğan görüştü",
+      "score": 0.22550395131111145
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "Altinok": "Avustralya’dan yarı kapasitede zirai uçak kiralandı: THK uçaklarının kapasitesi yeterli bulunmamıştı",
+      "score": 0.21932783722877502
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "Altinok": "Suudi Arabistan Veliaht Prensi Selman ile Erdoğan görüştü",
+      "score": 0.23509927093982697
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "Altinok": "Yangın havuzuna ödenek yetmedi",
+      "score": 0.3830612301826477
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "Altinok": "Emekli Korgeneral Erdoğan Karakuş: ‘Kozmik Oda’ya girilmesiyle 848 kişi katledildi’",
+      "score": 0.15528461337089539
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "Altinok": "Kıyı kenar çizgisi ile ilgili düzenlemeyi savunan Çevre Bakanlığı’ndan işgal itirafı",
+      "score": 0.40972626209259033
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "Altinok": "Yangın havuzuna ödenek yetmedi",
+      "score": 0.1950075328350067
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "Altinok": "Süleyman Soylu’dan yangın paylaşımlarına: ‘Sosyal medya şeytanları devreye girdi’",
+      "score": 0.25310584902763367
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "Altinok": "Kıyı kenar çizgisi ile ilgili düzenlemeyi savunan Çevre Bakanlığı’ndan işgal itirafı",
+      "score": 0.26989635825157166
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "Altinok": "Türkiye Değişim Partisi kuruluyor!",
+      "score": 0.24507993459701538
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "Altinok": "Avustralya’dan yarı kapasitede zirai uçak kiralandı: THK uçaklarının kapasitesi yeterli bulunmamıştı",
+      "score": 0.1984025239944458
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "Altinok": "İYİ Parti lideri Meral Akşener: ‘Yangın söndürme uçağımız yok’ diyen kepazeliği unutmadık",
+      "score": 0.25898173451423645
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "Altinok": "Kıyı kenar çizgisi ile ilgili düzenlemeyi savunan Çevre Bakanlığı’ndan işgal itirafı",
+      "score": 0.17075389623641968
+    }
+  ],
+  "bianet": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "bianet": "Devrimci Yol Dergisi nüshaları TÜSTAV’da",
+      "score": 0.27778908610343933
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "bianet": "“Zamlar arka arkaya geliyor, öfke mültecilere yöneliyor”",
+      "score": 0.22522813081741333
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "bianet": "ERmiscom; katılımcı ve kapsayıcı bir ERASMUS+KA2 projesi ardından",
+      "score": 0.4040220379829407
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "bianet": "ERmiscom; katılımcı ve kapsayıcı bir ERASMUS+KA2 projesi ardından",
+      "score": 0.33155083656311035
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "bianet": "Kayyım Batman’daki Cegerxwîn büstünü kaldırdı",
+      "score": 0.21701474487781525
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "bianet": "Hindistan’da sel: Assam’da 6 ayda 101 ölüm",
+      "score": 0.2913612723350525
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "bianet": "Hindistan’da sel: Assam’da 6 ayda 101 ölüm",
+      "score": 0.22745013236999512
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "bianet": "Çavuşoğlu’ndan Ukrayna’nın “çalıntı tahıl” iddiasına yanıt",
+      "score": 0.33697062730789185
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "bianet": "CHP çocukları dinledi: \"Doğayla bağ kurmak istiyorum”",
+      "score": 0.2944677174091339
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "bianet": "Hamburg Film Fonu'ndan Çiğdem Mater'e selam",
+      "score": 0.18644458055496216
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "bianet": "ERmiscom; katılımcı ve kapsayıcı bir ERASMUS+KA2 projesi ardından",
+      "score": 0.2876928746700287
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "bianet": "BM: Afganistan depreminde 2 bin ev yıkıldı",
+      "score": 0.317055881023407
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "bianet": "“Zamlar arka arkaya geliyor, öfke mültecilere yöneliyor”",
+      "score": 0.26464641094207764
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "bianet": "Rusya ve Litvanya arasında “Kaliningrad” krizi",
+      "score": 0.2815808951854706
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "bianet": "ERmiscom; katılımcı ve kapsayıcı bir ERASMUS+KA2 projesi ardından",
+      "score": 0.2960587739944458
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "bianet": "Marmaris, Yediadalar'da dün akşam başlayan yangın 250 hektarlık alana yayıldı",
+      "score": 0.3569680452346802
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "bianet": "Hamburg Film Fonu'ndan Çiğdem Mater'e selam",
+      "score": 0.16956503689289093
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "bianet": "Boğaziçi direnişi 535’inci gününde",
+      "score": 0.26637452840805054
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "bianet": "Rusya ve Litvanya arasında “Kaliningrad” krizi",
+      "score": 0.30242422223091125
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "bianet": "Boğaziçi direnişi 535’inci gününde",
+      "score": 0.2612135112285614
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "bianet": "6. Uluslararası Bodrum Caz Festivali başladı",
+      "score": 0.30571264028549194
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "bianet": "Hamburg Film Fonu'ndan Çiğdem Mater'e selam",
+      "score": 0.22301790118217468
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "bianet": "Boğaziçi direnişi 535’inci gününde",
+      "score": 0.22415509819984436
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "bianet": "Akşener'den “haksız tahrik indirimine” tepki",
+      "score": 0.25780194997787476
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "bianet": "6. Uluslararası Bodrum Caz Festivali başladı",
+      "score": 0.2075449675321579
+    }
+  ],
+  "dokuzsutun": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "dokuzsutun": "İstanbul Personel Yönetim AŞ. 29 işçi alacak",
+      "score": 0.2762255370616913
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "dokuzsutun": "İstanbul Baypaş işçi alacak",
+      "score": 0.16636577248573303
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "dokuzsutun": "İstanbul Beylikdüzü Belediyesi işçi alacak",
+      "score": 0.34289777278900146
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "dokuzsutun": "Manisa Albeltaş personel alacak",
+      "score": 0.38543501496315
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "dokuzsutun": "Çorum Mecitözü Belediyesi personel alacak",
+      "score": 0.10580982267856598
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "dokuzsutun": "Diyarbakır'dan acı haber: 2 şehit ",
+      "score": 0.10122121870517731
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "dokuzsutun": "Orman yangınlarıyla ilgili EGM'den açıklama ",
+      "score": 0.11392039805650711
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "dokuzsutun": "Çorum Mecitözü Belediyesi personel alacak",
+      "score": 0.16858404874801636
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "dokuzsutun": "İzmir İzfaş işçi alacak",
+      "score": 0.21823306381702423
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "dokuzsutun": "Mersin Üniversitesi personel alacak",
+      "score": 0.24845433235168457
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "dokuzsutun": "Mersin Üniversitesi personel alacak",
+      "score": 0.35477501153945923
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "dokuzsutun": "Eskişehir Belkent personel alacak",
+      "score": 0.26033881306648254
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "dokuzsutun": "Manisa Albeltaş personel alacak",
+      "score": 0.1501648873090744
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "dokuzsutun": "Yalova'da icradan satılık daire",
+      "score": 0.13405796885490417
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "dokuzsutun": "Manisa Albeltaş personel alacak",
+      "score": 0.216694176197052
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "dokuzsutun": "Mersin'de icradan satılık arsa",
+      "score": 0.3545915484428406
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "dokuzsutun": "Mersin'de icradan satılık arsa",
+      "score": 0.2773838937282562
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "dokuzsutun": "İzmir İzfaş işçi alacak",
+      "score": 0.2541814148426056
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "dokuzsutun": "Trabzon'da icradan satılık daire",
+      "score": 0.25228166580200195
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "dokuzsutun": "Orman yangınlarıyla ilgili EGM'den açıklama ",
+      "score": 0.17055155336856842
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "dokuzsutun": "Manisa Albeltaş personel alacak",
+      "score": 0.23991161584854126
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "dokuzsutun": "Trabzon'da icradan satılık daire",
+      "score": 0.3064398765563965
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "dokuzsutun": "Manisa Albeltaş personel alacak",
+      "score": 0.18886901438236237
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "dokuzsutun": "AKP’den EYT açıklaması ",
+      "score": 0.1645534336566925
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "dokuzsutun": "Trabzon'da icradan satılık daire",
+      "score": 0.3368552625179291
+    }
+  ],
+  "buyuklimanpostasi": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "buyuklimanpostasi": "KAMİLOĞLU DERNEĞİ YENİ DERNEK LOKALİNDE TOPLANTI  ",
+      "score": 0.5255218148231506
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "buyuklimanpostasi": "VAKFIKEBİR MYO’DA 16. MEZUNİYET COŞKUSU",
+      "score": 0.17414437234401703
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "buyuklimanpostasi": "İŞTE BÖYLE GEÇTİLER  ",
+      "score": 0.3428798317909241
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "buyuklimanpostasi": "VAKFIKEBİR'DEN 61 ÜLKEYE İHRACAT  ",
+      "score": 0.3075276017189026
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "buyuklimanpostasi": "DENİZE GİRMEK YASAK  ",
+      "score": 0.27646052837371826
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "buyuklimanpostasi": "TONYA’DA 4 KİŞİ ÖLDÜ",
+      "score": 0.21089324355125427
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "buyuklimanpostasi": "ARAKLI'DAKİ SEL FELAKETİNDEN GÖRÜNTÜLER  ",
+      "score": 0.2082497775554657
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "buyuklimanpostasi": "NEFES KESEN SOYGUN OPERASYONU  ",
+      "score": 0.273755818605423
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "buyuklimanpostasi": "TURUPÇU DUALARLA ANILDI  ",
+      "score": 0.25687405467033386
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "buyuklimanpostasi": "VAKFIKEBİR MYO’DA 16. MEZUNİYET COŞKUSU",
+      "score": 0.31293320655822754
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "buyuklimanpostasi": "İLÇE MİLLİ EĞİTİM MÜDÜRÜ KİM OLACAK!  ",
+      "score": 0.3006376326084137
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "buyuklimanpostasi": "MİLLETVEKİLİ MUHAMMET BALTA, TBMM DAVET ETTİ  ",
+      "score": 0.24139930307865143
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "buyuklimanpostasi": "3-ALTIN SARAYI AÇILIŞI ÇARŞIBAŞI/TRABZON",
+      "score": 0.2898511588573456
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "buyuklimanpostasi": "MİLLETVEKİLİ MUHAMMET BALTA, TBMM DAVET ETTİ  ",
+      "score": 0.1847456693649292
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "buyuklimanpostasi": "BU GURUR TONYA MYO’NUN",
+      "score": 0.2905583083629608
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "buyuklimanpostasi": "YANGIN DETAYLARI HABERİMİZDE",
+      "score": 0.32730019092559814
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "buyuklimanpostasi": "BU GURUR TONYA MYO’NUN",
+      "score": 0.25384002923965454
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "buyuklimanpostasi": "BU ÇEVRE KİRLİLİĞİNE DUR DİYECEK YOK MU?",
+      "score": 0.22952067852020264
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "buyuklimanpostasi": "DENİZE GİRMEK YASAK  ",
+      "score": 0.29884999990463257
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "buyuklimanpostasi": "DENİZE GİRMEK YASAK  ",
+      "score": 0.2601877748966217
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "buyuklimanpostasi": "DENİZE GİRMEK YASAK  ",
+      "score": 0.3002656102180481
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "buyuklimanpostasi": "3-ALTIN SARAYI AÇILIŞI ÇARŞIBAŞI/TRABZON",
+      "score": 0.22972071170806885
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "buyuklimanpostasi": "VAKFIKEBİR'DEN 61 ÜLKEYE İHRACAT  ",
+      "score": 0.20140612125396729
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "buyuklimanpostasi": "BU KATLİAMA KİM DUR DİYECEK!  ",
+      "score": 0.2013692557811737
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "buyuklimanpostasi": "DENİZE GİRMEK YASAK  ",
+      "score": 0.21229514479637146
+    }
+  ],
+  "haksozhaber": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "haksozhaber": "İsmailağa Cemaati şeyhi Mahmut Ustaosmanoğlu vefat etti",
+      "score": 0.24911698698997498
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "haksozhaber": "İngiltere'de 30 yılın en büyük ulaştırma çalışanları grevi başladı",
+      "score": 0.25216442346572876
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "haksozhaber": "Çağdaş cahiliyenin hukuku böyle işliyor!",
+      "score": 0.2300696074962616
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "haksozhaber": "Libya tezkeresi uzatıldı",
+      "score": 0.2702898383140564
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "haksozhaber": "Bangladeş'te şiddetli yağışların yol açtığı sellerde 36 kişi hayatını kaybetti",
+      "score": 0.33934566378593445
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "haksozhaber": "Bangladeş'te şiddetli yağışların yol açtığı sellerde 36 kişi hayatını kaybetti",
+      "score": 0.3661056160926819
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "haksozhaber": "Rusya’da Su-25 savaş uçağı düştü",
+      "score": 0.33039623498916626
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "haksozhaber": "Zelenskiy: Afrika, Rusya'nın Ukrayna'ya başlattığı savaşın rehinesi oldu",
+      "score": 0.5925503373146057
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "haksozhaber": "Türkiye’deki işletmelerin kaçı %25 Türkçe kuralına uyuyor?!",
+      "score": 0.19498039782047272
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "haksozhaber": "Ankara Özgür-Der mensupları piknikte buluştu",
+      "score": 0.19059918820858002
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "haksozhaber": "İngiltere'de 30 yılın en büyük ulaştırma çalışanları grevi başladı",
+      "score": 0.233660027384758
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "haksozhaber": "Sapkınlık üzerinden prim yapmaya çalışan giyim mağazası!",
+      "score": 0.3005921244621277
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "haksozhaber": "3 farklı coğrafyada 4 Müslümanın hikayesi",
+      "score": 0.2865947186946869
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "haksozhaber": "Zelenskiy: Afrika, Rusya'nın Ukrayna'ya başlattığı savaşın rehinesi oldu",
+      "score": 0.31023314595222473
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "haksozhaber": "Kemalist rejim sadece İstanbul'da 400 cami ve medreseyi yok etmiş",
+      "score": 0.21852326393127441
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "haksozhaber": "Almanya, AB'nin yeni benzinli ve dizel otomobillerin 2035'te yasaklanması planını reddetti",
+      "score": 0.26539185643196106
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "haksozhaber": "Gümüşhane'de arazide Rus yapımı İHA bulundu",
+      "score": 0.16844403743743896
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "haksozhaber": "Filistin Başbakanı: İşgalci güçlerin yağmaladığı doğal gaz hakkımızı herkese hatırlatıyoruz",
+      "score": 0.2636021077632904
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "haksozhaber": "Zelenskiy: Afrika, Rusya'nın Ukrayna'ya başlattığı savaşın rehinesi oldu",
+      "score": 0.29615485668182373
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "haksozhaber": "BM: 17 bin göçmen Yunanistan deniz sınırından geri itildi",
+      "score": 0.2012680172920227
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "haksozhaber": "BM: Yunanistan'da göçmenleri korumaya çalışan kuruluşlar baskı altında",
+      "score": 0.25195711851119995
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "haksozhaber": "11 yıldır Suriye’de dünyanın kör kaldığı kareler",
+      "score": 0.31367945671081543
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "haksozhaber": "İngiltere'de 30 yılın en büyük ulaştırma çalışanları grevi başladı",
+      "score": 0.31281518936157227
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "haksozhaber": "Rusya’da Su-25 savaş uçağı düştü",
+      "score": 0.26148954033851624
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "haksozhaber": "Hakaret eden polis amirine sahip çıkan EGM, Yeneroğlu’ndan davacı oluyor!",
+      "score": 0.18196991086006165
+    }
+  ],
+  "IHA": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "IHA": "Antalya'da yeni evine kavuşan yangınzedenin sevinç gözyaşları",
+      "score": 0.1714092195034027
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "IHA": "Sürülerin tozlu yolculuğu",
+      "score": 0.29165536165237427
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "IHA": "Bayraktar AKINCI'dan bir irtifa rekoru daha",
+      "score": 0.36148786544799805
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "IHA": "TSK'nın 10 ton su atan Chinook helikopteri göreve başladı",
+      "score": 0.3740735352039337
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "IHA": "TSK'nın 10 ton su atan Chinook helikopteri göreve başladı",
+      "score": 0.2660602033138275
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "IHA": "Otobüs şoförü baygınlık geçiren kız çocuğunu hastaneye yetiştirdi",
+      "score": 0.31400659680366516
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "IHA": "Otobüs şoförü baygınlık geçiren kız çocuğunu hastaneye yetiştirdi",
+      "score": 0.3013078570365906
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "IHA": "İstanbul'un yanı başındaki Tekirdağ'da mor günler başladı",
+      "score": 0.28378066420555115
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "IHA": "Bayraktar AKINCI'dan bir irtifa rekoru daha",
+      "score": 0.2475418746471405
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "IHA": "Bayraktar AKINCI'dan bir irtifa rekoru daha",
+      "score": 0.2516741156578064
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "IHA": "Türkiye ve KKTC ortak tatbikatı Şehit Teğmen Caner Gönyeli-2022 tamamlandı",
+      "score": 0.3223813772201538
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "IHA": "Hataylı iş adamı: 'Eşim beni dolandırdı'",
+      "score": 0.296986848115921
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "IHA": "TSK'nın 10 ton su atan Chinook helikopteri göreve başladı",
+      "score": 0.3001464009284973
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "IHA": "Otobüs şoförü baygınlık geçiren kız çocuğunu hastaneye yetiştirdi",
+      "score": 0.36079174280166626
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "IHA": "TSK'nın 10 ton su atan Chinook helikopteri göreve başladı",
+      "score": 0.37528568506240845
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "IHA": "Tekirdağ'da 300 dönüm buğday tarlası alev alev yandı",
+      "score": 0.37406274676322937
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "IHA": "Bayraktar AKINCI'dan bir irtifa rekoru daha",
+      "score": 0.26337501406669617
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "IHA": "Bayraktar AKINCI'dan bir irtifa rekoru daha",
+      "score": 0.27312397956848145
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "IHA": "Bayraktar AKINCI'dan bir irtifa rekoru daha",
+      "score": 0.300218403339386
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "IHA": "İstanbul'un yanı başındaki Tekirdağ'da mor günler başladı",
+      "score": 0.2300983965396881
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "IHA": "Türkiye ve KKTC ortak tatbikatı Şehit Teğmen Caner Gönyeli-2022 tamamlandı",
+      "score": 0.22294749319553375
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "IHA": "İstanbul'un yanı başındaki Tekirdağ'da mor günler başladı",
+      "score": 0.33078646659851074
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "IHA": "TSK'nın 10 ton su atan Chinook helikopteri göreve başladı",
+      "score": 0.26051750779151917
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "IHA": "TSK'nın 10 ton su atan Chinook helikopteri göreve başladı",
+      "score": 0.32719817757606506
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "IHA": "Bayraktar AKINCI'dan bir irtifa rekoru daha",
+      "score": 0.2822045087814331
+    }
+  ],
+  "Ilerigazetesi": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "Ilerigazetesi": "Milli Takım kadrosu belli oldu",
+      "score": 0.23268809914588928
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "Ilerigazetesi": "Öğrenciler coşkuyla karşılandı",
+      "score": 0.17288175225257874
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "Ilerigazetesi": "• Rafting Çekerek’ten sorulur",
+      "score": 0.28434640169143677
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "Ilerigazetesi": "TEŞKiLAT GÜCÜNE  GÜÇ KATIYOR",
+      "score": 0.31971409916877747
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "Ilerigazetesi": "Eşini öldürüp intihar etti",
+      "score": 0.2064392864704132
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "Ilerigazetesi": "Eşini öldürüp intihar etti",
+      "score": 0.24946148693561554
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "Ilerigazetesi": "Eşini öldürüp intihar etti",
+      "score": 0.26880916953086853
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "Ilerigazetesi": "Sorgun'da eski maden sahasına ",
+      "score": 0.18344739079475403
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "Ilerigazetesi": "Coşkulu kutlama ",
+      "score": 0.2622467875480652
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "Ilerigazetesi": "Öğrenciler coşkuyla karşılandı",
+      "score": 0.3987811207771301
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "Ilerigazetesi": "Öğrenciler coşkuyla karşılandı",
+      "score": 0.26641514897346497
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "Ilerigazetesi": "Taşınmaz satışı",
+      "score": 0.2668018341064453
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "Ilerigazetesi": "Öğrenciler coşkuyla karşılandı",
+      "score": 0.17940758168697357
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "Ilerigazetesi": "Eşini öldürüp intihar etti",
+      "score": 0.18826289474964142
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "Ilerigazetesi": "Yozgatlı son şehit Nusret Atmaca'nın şehitlik nişanı ailesine teslim edildi  ",
+      "score": 0.263219952583313
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "Ilerigazetesi": "Doğalgaz dönüşüm işi",
+      "score": 0.270582914352417
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "Ilerigazetesi": "Yozgatspor-Ünyespor maçı FOTO GALERİ ",
+      "score": 0.2947804927825928
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "Ilerigazetesi": "• Rafting Çekerek’ten sorulur",
+      "score": 0.2623615264892578
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "Ilerigazetesi": "Yozgatspor-Ünyespor maçı FOTO GALERİ ",
+      "score": 0.1990574598312378
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "Ilerigazetesi": "Köylünün kurt paniği ",
+      "score": 0.21846455335617065
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "Ilerigazetesi": "• Rafting Çekerek’ten sorulur",
+      "score": 0.3035859167575836
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "Ilerigazetesi": "MERKEZ VE KREŞ FESHEDİLDİ",
+      "score": 0.2961185574531555
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "Ilerigazetesi": "• Rafting Çekerek’ten sorulur",
+      "score": 0.21768438816070557
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "Ilerigazetesi": "• Rafting Çekerek’ten sorulur",
+      "score": 0.2825222909450531
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "Ilerigazetesi": "Yozgatspor-Ünyespor maçı FOTO GALERİ ",
+      "score": 0.24683760106563568
+    }
+  ],
+  "Timeturk": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "Timeturk": "ABD'de servetini kendisi inşa edenler arasında bir Türk kadını var: Hem de 10. sırada",
+      "score": 0.29639193415641785
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "Timeturk": "G7'den Ukrayna'ya dev kaynak",
+      "score": 0.19786065816879272
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "Timeturk": "TOBB’dan KOBİ’lere ABD’ye ihracat yapma fırsatı",
+      "score": 0.3198014497756958
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "Timeturk": "TOBB’dan KOBİ’lere ABD’ye ihracat yapma fırsatı",
+      "score": 0.3695604205131531
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "Timeturk": "30 kişinin mal varlığı donduruldu",
+      "score": 0.21578919887542725
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "Timeturk": "İtalya'da özel helikopter kayboldu",
+      "score": 0.2708625793457031
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "Timeturk": "İtalya'da özel helikopter kayboldu",
+      "score": 0.33651793003082275
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "Timeturk": "G7'den Ukrayna'ya dev kaynak",
+      "score": 0.33815109729766846
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "Timeturk": "Galatasaray'dan Berkay Özcan atağı!",
+      "score": 0.2445226013660431
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "Timeturk": "Okulda spor bir başka güzel",
+      "score": 0.28289473056793213
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "Timeturk": "Atık Emekçilerine, Sıfır Atık Kahramanlarına Mesleki Statü",
+      "score": 0.3123857378959656
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "Timeturk": "Yaptırımlar nasıl etkiledi? Putin’in eski danışmanı anlattı",
+      "score": 0.30768173933029175
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "Timeturk": "AKINCI'dan yeni rekor",
+      "score": 0.22712402045726776
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "Timeturk": "Şimdi de çocuk felci alarmı: Kanalizasyonda virüs izleri bulundu!",
+      "score": 0.22157824039459229
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "Timeturk": "AKINCI'dan yeni rekor",
+      "score": 0.334744393825531
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "Timeturk": "Emniyet'ten 'yangın paylaşımları' incelemesi",
+      "score": 0.31094908714294434
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "Timeturk": "Burak Yılmaz'dan sürpriz karar! Yeni takımı resmen açıklandı",
+      "score": 0.250531405210495
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "Timeturk": "Atık Emekçilerine, Sıfır Atık Kahramanlarına Mesleki Statü",
+      "score": 0.3624495565891266
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "Timeturk": "Avrupa şampiyonu karateci Süleyman Aydemir, davul zurnayla karşılandı",
+      "score": 0.25505292415618896
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "Timeturk": "UNESCO’dan korkutan açıklama: Dünyada risk altındaki 5 şehirden biri İstanbul!",
+      "score": 0.33729904890060425
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "Timeturk": "Avrupa şampiyonu karateci Süleyman Aydemir, davul zurnayla karşılandı",
+      "score": 0.2633543014526367
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "Timeturk": "45 gün sürüyor! Gören şaşkına döndü",
+      "score": 0.40104031562805176
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "Timeturk": "AKINCI'dan yeni rekor",
+      "score": 0.33286696672439575
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "Timeturk": "Milli Savunma Bakanlığı duyurdu: Gülen’in yeğeni Yunanistan'a kaçarken yakalandı",
+      "score": 0.22360113263130188
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "Timeturk": "Vaiz maaşlarına ne kadar zam yapılacak? Temmuzdan sonra vaiz maaşları ne kadar olacak? En düşük vaiz maaşı",
+      "score": 0.2509433329105377
+    }
+  ],
+  "turkuazgazetesi": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "turkuazgazetesi": "Deloitte Türkiye’de 7 yeni ortak ",
+      "score": 0.3337838649749756
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "turkuazgazetesi": "Emlak sektöründeki hareketlilik, büyük firmaları Türkiye’ye çekti ",
+      "score": 0.3525118827819824
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "turkuazgazetesi": "Türkiye’de İş Dünyası yeni sayısında eğitimi ele aldı",
+      "score": 0.4069831967353821
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "turkuazgazetesi": "Dünya Kupası öncesi Katar’daki gayrimenkul ve yatırım fuarına ‘mili katılım’ ",
+      "score": 0.3736748993396759
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "turkuazgazetesi": "ÜNLÜ OYUNCU EVİNİN BALKONUNDAN DÜŞEREK HAYATA VEDA ETTİ!",
+      "score": 0.3227959871292114
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "turkuazgazetesi": "Sevilen iki dizi Oyuncusu Hayatını Kaybetti",
+      "score": 0.35329246520996094
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "turkuazgazetesi": "ÜNLÜ OYUNCU EVİNİN BALKONUNDAN DÜŞEREK HAYATA VEDA ETTİ!",
+      "score": 0.3760814964771271
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "turkuazgazetesi": "Kurban pazarları bayrama hazırlandı, kurbanlıkları bekliyor ",
+      "score": 0.18950462341308594
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "turkuazgazetesi": "Körfez’de yelkenler salınacak ",
+      "score": 0.2655501365661621
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "turkuazgazetesi": "Devlet Konservatuvarında mezuniyet sevinci",
+      "score": 0.4550328254699707
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "turkuazgazetesi": "Türkiye’de İş Dünyası yeni sayısında eğitimi ele aldı",
+      "score": 0.3477534055709839
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "turkuazgazetesi": "“Petrol fiyatlarında 100 doların altı zor gözüküyor” ",
+      "score": 0.22555038332939148
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "turkuazgazetesi": "Körfez’de yelkenler salınacak ",
+      "score": 0.33497583866119385
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "turkuazgazetesi": "ÜNLÜ OYUNCU EVİNİN BALKONUNDAN DÜŞEREK HAYATA VEDA ETTİ!",
+      "score": 0.3114919066429138
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "turkuazgazetesi": "Dünya Şehir’den konut sektörüne 4 milyar TL’lik yatırım ",
+      "score": 0.36842358112335205
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "turkuazgazetesi": "Çatışmada araçlar alev aldı...",
+      "score": 0.38461577892303467
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "turkuazgazetesi": " Enflasyon hakkında açıklamada bulundu! ",
+      "score": 0.30594712495803833
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "turkuazgazetesi": "Akenerji ’Birleşmiş Milletler Global Compact’ üyesi oldu ",
+      "score": 0.34111812710762024
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "turkuazgazetesi": "Körfez’de yelkenler salınacak ",
+      "score": 0.28885212540626526
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "turkuazgazetesi": "Tuzla'da korkunç çatışma! ",
+      "score": 0.3381841778755188
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "turkuazgazetesi": "Körfez’de yelkenler salınacak ",
+      "score": 0.2933221161365509
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "turkuazgazetesi": "İzmit Hayrettin Uzun Caddesinde yol genişletme ve üstyapı",
+      "score": 0.24406318366527557
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "turkuazgazetesi": "Erdoğan Açıkladı Dolar 12 TL Düşecek",
+      "score": 0.20482367277145386
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "turkuazgazetesi": "Red Bulut B2B pazaryeri platformu tanıtıldı ",
+      "score": 0.3098432123661041
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "turkuazgazetesi": " Enflasyon hakkında açıklamada bulundu! ",
+      "score": 0.27520158886909485
+    }
+  ],
+  "ahaber": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "ahaber": "Türkiye FIFA sıralamasında yükseldi",
+      "score": 0.2532654106616974
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "ahaber": " İşte Türkiye’nin yangın söndürme filosu! Envanterde neler var? ",
+      "score": 0.3817291259765625
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "ahaber": "Türkiye'nin dev projeleri artıyor",
+      "score": 0.32167118787765503
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "ahaber": "Türkiye'nin dev projeleri artıyor",
+      "score": 0.4482548236846924
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "ahaber": " Su sporları şampiyonasında korku dolu anlar! ABD'li yüzücü Anita Alvarez suyun altında bayıldı ",
+      "score": 0.37387627363204956
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "ahaber": " Su sporları şampiyonasında korku dolu anlar! ABD'li yüzücü Anita Alvarez suyun altında bayıldı ",
+      "score": 0.3119106590747833
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "ahaber": " Su sporları şampiyonasında korku dolu anlar! ABD'li yüzücü Anita Alvarez suyun altında bayıldı ",
+      "score": 0.3776014447212219
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "ahaber": "Bu yöntemle balık tutmak çok kolay! Kilolarca yakalayacaksınız…",
+      "score": 0.1933564692735672
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "ahaber": "Bakan Özer'den öğretmenlere mesaj",
+      "score": 0.29610639810562134
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "ahaber": " İçimizdeki Ateş dizisinin Hale Vural'ı İpek Filiz Yazıcı sosyal medyayı salladı! Bu fotoğrafı gören şaştı kaldı ",
+      "score": 0.28823357820510864
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "ahaber": " ÖSYM 2022 DGS sınav giriş belgesi yerleri açıklandı ",
+      "score": 0.40251845121383667
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "ahaber": "Vefakar koç! Dağı taşı aşıp...",
+      "score": 0.30018311738967896
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "ahaber": " Bir gecede 3 dünya büyüklüğüne ulaştı! Bilim insanları uyardı: Daha fazla Güneş patlaması olacak ",
+      "score": 0.42607906460762024
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "ahaber": " Su sporları şampiyonasında korku dolu anlar! ABD'li yüzücü Anita Alvarez suyun altında bayıldı ",
+      "score": 0.2803648114204407
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "ahaber": " İşte Türkiye’nin yangın söndürme filosu! Envanterde neler var? ",
+      "score": 0.3559598922729492
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "ahaber": "Alevlere teslim oldu!",
+      "score": 0.4144176244735718
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "ahaber": "Bakan Nebati'den enflasyon ve ihracat mesajı",
+      "score": 0.2629977762699127
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "ahaber": "Kirliliğin pençesinde! Neden önlenemiyor?",
+      "score": 0.3795251250267029
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "ahaber": "Kirliliğin pençesinde! Neden önlenemiyor?",
+      "score": 0.3795251250267029
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "ahaber": " İçimizdeki Ateş dizisinin Hale Vural'ı İpek Filiz Yazıcı sosyal medyayı salladı! Bu fotoğrafı gören şaştı kaldı ",
+      "score": 0.27826666831970215
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "ahaber": " Marmaris'teki orman yangınında son durum: Sabotaj tespiti! Bakan Soylu: Çıkış nedeniyle ilgili bir şüpheli var ",
+      "score": 0.335161417722702
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "ahaber": "Marmaris'te kırmızı alarm!",
+      "score": 0.23945121467113495
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "ahaber": "İpek Filiz Yazıcı bu haliyle şaşırttı! Yıllar önce...",
+      "score": 0.36998385190963745
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "ahaber": "TOGG yerli otomobil üretimi için 43 iş ilanı yayımladı! İşte şartlar",
+      "score": 0.2929077446460724
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "ahaber": " İşte Türkiye’nin yangın söndürme filosu! Envanterde neler var? ",
+      "score": 0.2515712082386017
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "ahaber": "Marmaris'te kırmızı alarm!",
+      "score": 0.28734487295150757
+    }
+  ],
+  "ensonhaber": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "ensonhaber": " Galatasaray Okan Buruk'la görüşmelere başlandığını KAP'a bildirdi ",
+      "score": 0.25931188464164734
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "ensonhaber": "Samsung'un 50 milyon akıllı telefonu depolarda kaldı",
+      "score": 0.2828444242477417
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "ensonhaber": " Nureddin Nebati'nin Suudi bakanlarla görüşmeleri ",
+      "score": 0.25098711252212524
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "ensonhaber": "Deniz salyangozu ihracatı kazandırmaya devam ediyor",
+      "score": 0.304830938577652
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "ensonhaber": "Deniz salyangozu ihracatı kazandırmaya devam ediyor",
+      "score": 0.2362443208694458
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "ensonhaber": "Billur Kalkavan'dan haber var",
+      "score": 0.1459883749485016
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "ensonhaber": "Ford Focus yollara veda ediyor: İşte üretimin sonlanacağı tarih",
+      "score": 0.2631376385688782
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "ensonhaber": "Doğu Anadolu'dan büyükşehirlere kurbanlık sevkiyatı başladı",
+      "score": 0.24199751019477844
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "ensonhaber": "Android'de FaceTime nasıl kullanılır",
+      "score": 0.19124695658683777
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "ensonhaber": "Tekirdağ'da camdan eşek arısı giren otomobil takla attı",
+      "score": 0.201478511095047
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "ensonhaber": "Adana’da bulunan petrol sevinç yarattı ",
+      "score": 0.1574241667985916
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "ensonhaber": "Hatay’da iş adamının iddiası: Eşim beni dolandırdı",
+      "score": 0.30725398659706116
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "ensonhaber": "Deniz salyangozu ihracatı kazandırmaya devam ediyor",
+      "score": 0.2654547691345215
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "ensonhaber": "Ukrayna'daki savaştan ailesini kurtaran adam davalık",
+      "score": 0.25885534286499023
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "ensonhaber": "Billur Kalkavan'dan haber var",
+      "score": 0.2467087209224701
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "ensonhaber": "Adana’da bulunan petrol sevinç yarattı ",
+      "score": 0.2789587378501892
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "ensonhaber": "Deniz salyangozu ihracatı kazandırmaya devam ediyor",
+      "score": 0.3054836094379425
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "ensonhaber": "ABD'de Joe Biden'a destek azalıyor",
+      "score": 0.25997456908226013
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "ensonhaber": " Mahmut Ustaosmanoğlu hayatını kaybetti ",
+      "score": 0.1995442658662796
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "ensonhaber": " Süleyman Soylu'dan muhalefetin 'uçak-helikopter yok' iddialarına tepki ",
+      "score": 0.19323906302452087
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "ensonhaber": "Deniz salyangozu ihracatı kazandırmaya devam ediyor",
+      "score": 0.34448671340942383
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "ensonhaber": "Bülent Uslu: Beşiktaş taraftarıyla algıları gerçeğe dönüştürdük",
+      "score": 0.258121520280838
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "ensonhaber": "Samsung'un 50 milyon akıllı telefonu depolarda kaldı",
+      "score": 0.4504373371601105
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "ensonhaber": "Kocaeli'de sokak ortasındaki çıplak kadın",
+      "score": 0.22272497415542603
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "ensonhaber": "Deniz salyangozu ihracatı kazandırmaya devam ediyor",
+      "score": 0.2534097135066986
+    }
+  ],
+  "F5": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "score": 0.4013674557209015
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "score": 0.16915346682071686
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "score": 0.14649780094623566
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "score": 0.29447364807128906
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "score": 0.17749159038066864
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "score": 0.1908058226108551
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "score": 0.28739145398139954
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "score": 0.11447826027870178
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "score": 0.22721990942955017
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "score": 0.10356973856687546
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "score": 0.1755499541759491
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "score": 0.23200011253356934
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "score": 0.1545017659664154
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "score": 0.18727213144302368
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "score": 0.27521947026252747
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "score": 0.10685291886329651
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "score": 0.12271343171596527
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "score": 0.1363297551870346
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "score": 0.19253027439117432
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "score": 0.11903291940689087
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "score": 0.23895490169525146
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "score": 0.16184164583683014
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "score": 0.14148397743701935
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "score": 0.18632441759109497
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "score": 0.1655135452747345
+    }
+  ],
+  "Gerçekgündem": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "Gerçekgündem": "Kemal Kılıçdaroğlu: 'Size söz, sarayda oturan o adamı emekli edeceğim'",
+      "score": 0.24275940656661987
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "Gerçekgündem": "Satışlar düştü: Milyonlarca Samsung telefon depolarda bekliyor",
+      "score": 0.22967460751533508
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "Gerçekgündem": "Araştırma | Z kuşağının meslek tercihi belli oldu: Kendi işlerini kurmak istiyorlar",
+      "score": 0.27671656012535095
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "Gerçekgündem": "Araştırma | Z kuşağının meslek tercihi belli oldu: Kendi işlerini kurmak istiyorlar",
+      "score": 0.3110840320587158
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "Gerçekgündem": "AKP'nin büyük yenilgisi: Yenilenen İstanbul seçimlerinin üzerinden 3 yıl geçti",
+      "score": 0.31466221809387207
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "Gerçekgündem": "CHP'den 'Veliaht Prens' tepkisi: 'İlişkiler Erdoğan’ın 'petro dolar' ihtiyacının ağır basması sebebiyle onarılmaya çalışılıyor",
+      "score": 0.19320032000541687
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "Gerçekgündem": "AKP'nin büyük yenilgisi: Yenilenen İstanbul seçimlerinin üzerinden 3 yıl geçti",
+      "score": 0.3703642189502716
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "Gerçekgündem": "Kendisine saldıran timsaha kızartma tavasıyla müdahale etti",
+      "score": 0.22198016941547394
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "Gerçekgündem": "Her şey cama bıraktığı notla başladı: 'Sizin gibi insanlar kaldı mı bu dünyada...'",
+      "score": 0.2925969362258911
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "Gerçekgündem": "Erdil Yaşaroğlu ve 28 kuruşluk opera",
+      "score": 0.25470447540283203
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "Gerçekgündem": "Araştırma | Z kuşağının meslek tercihi belli oldu: Kendi işlerini kurmak istiyorlar",
+      "score": 0.3314613699913025
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "Gerçekgündem": "CHP'den 'Veliaht Prens' tepkisi: 'İlişkiler Erdoğan’ın 'petro dolar' ihtiyacının ağır basması sebebiyle onarılmaya çalışılıyor",
+      "score": 0.3225165009498596
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "Gerçekgündem": "Ekrem İmamoğlu'ndan 3 dakikada 3'ncü yıl paylaşımı",
+      "score": 0.38544961810112
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "Gerçekgündem": "UNESCO: Akdeniz’de 1 metreyi aşan tsunami olacak",
+      "score": 0.22028423845767975
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "Gerçekgündem": "Erdil Yaşaroğlu ve 28 kuruşluk opera",
+      "score": 0.3320142328739166
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "Gerçekgündem": "Fotoğraflarla Marmaris'te orman yangınında üçüncü gün ",
+      "score": 0.3512744605541229
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "Gerçekgündem": "Erken seçim hayal mi? 'Seçim, Haziran 2023'ün 6 ay sonrasına ertelenebilir!'",
+      "score": 0.20595210790634155
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "Gerçekgündem": "UNESCO: Akdeniz’de 1 metreyi aşan tsunami olacak",
+      "score": 0.24998782575130463
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "Gerçekgündem": "Erdil Yaşaroğlu ve 28 kuruşluk opera",
+      "score": 0.24701544642448425
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "Gerçekgündem": "UNESCO: Akdeniz’de 1 metreyi aşan tsunami olacak",
+      "score": 0.30641454458236694
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "Gerçekgündem": "Kemal Kılıçdaroğlu, Aydın'da konuştu: 'Tamamını devletleştireceğiz, kamulaştıracağız'",
+      "score": 0.3563765585422516
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "Gerçekgündem": "Ege'de karşılıklı zeybek ve sirtaki oynamak varken...",
+      "score": 0.25037625432014465
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "Gerçekgündem": "Avrupa'da doğal gaz fiyatları iki haftada yüzde 60 arttı",
+      "score": 0.23390313982963562
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "Gerçekgündem": "UNESCO: Akdeniz’de 1 metreyi aşan tsunami olacak",
+      "score": 0.30213719606399536
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "Gerçekgündem": "Kemal Kılıçdaroğlu, Aydın'da konuştu: 'Tamamını devletleştireceğiz, kamulaştıracağız'",
+      "score": 0.22226810455322266
+    }
+  ],
+  "HaberAktuel": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "HaberAktuel": "Galatasaray’da Okan Buruk dönemi başladı",
+      "score": 0.2143004983663559
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "HaberAktuel": "Elon Musk: Tesla milyarlarca dolar kaybetti",
+      "score": 0.1960691660642624
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "HaberAktuel": "İstanbul Sözleşmesi için karar günü",
+      "score": 0.3089900612831116
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "HaberAktuel": "AK Parti’den zam açıklaması",
+      "score": 0.2601287364959717
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "HaberAktuel": "Okan Bayülgen kalp spazmı geçirdi",
+      "score": 0.2875064015388489
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "HaberAktuel": "Okan Bayülgen kalp spazmı geçirdi",
+      "score": 0.25784268975257874
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "HaberAktuel": "AK Parti Sözcüsü’nden Marmaris yangını açıklaması",
+      "score": 0.28064510226249695
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "HaberAktuel": "Çavuşoğlu’ndan tahıl açıklaması: BM planı var",
+      "score": 0.14195701479911804
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "HaberAktuel": "Galatasaray’da Okan Buruk dönemi başladı",
+      "score": 0.19423851370811462
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "HaberAktuel": "Müge Anlı evleniyor",
+      "score": 0.19422703981399536
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "HaberAktuel": "Robert De Niro, Türkiye’ye geliyor",
+      "score": 0.28701716661453247
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "HaberAktuel": "Okan Bayülgen kalp spazmı geçirdi",
+      "score": 0.3047732412815094
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "HaberAktuel": "AK Parti Sözcüsü’nden Marmaris yangını açıklaması",
+      "score": 0.15321873128414154
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "HaberAktuel": "Fenerbahçe’de bir ayrılık daha",
+      "score": 0.26488733291625977
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "HaberAktuel": "AK Parti’den cumhurbaşkanı maaşı için açıklama",
+      "score": 0.205356627702713
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "HaberAktuel": "Sağlık Bakanı’ndan yangın açıklaması",
+      "score": 0.41041672229766846
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "HaberAktuel": "Bakan Nebati’den enflasyon açıklaması",
+      "score": 0.18501213192939758
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "HaberAktuel": "Biden’dan yardım kararı",
+      "score": 0.3650728464126587
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "HaberAktuel": "Akşener’den teşkilata uyarı",
+      "score": 0.15379337966442108
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "HaberAktuel": "Soylu’dan Marmaris yangını açıklaması",
+      "score": 0.2912217974662781
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "HaberAktuel": "Fethullah Gülen’in yeğeni Yunanistan’a kaçarken yakalandı",
+      "score": 0.20601481199264526
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "HaberAktuel": "Müge Anlı evleniyor",
+      "score": 0.20519579946994781
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "HaberAktuel": "Elon Musk: Tesla milyarlarca dolar kaybetti",
+      "score": 0.2522543966770172
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "HaberAktuel": "Akşener’den teşkilata uyarı",
+      "score": 0.22169539332389832
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "HaberAktuel": "AK Parti’den zam açıklaması",
+      "score": 0.2032853662967682
+    }
+  ],
+  "Habervinti": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "Habervinti": "İsmailağa Cemaati lideri Mahmut Ustaosmanoğlu 93 yaşında vefat etti!",
+      "score": 0.28573286533355713
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "Habervinti": " Otobüs firmalarına şokta! Takli satış başladı ",
+      "score": 0.36812883615493774
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "Habervinti": "Bayraktar AKINCI'dan yeni bir rekor daha!.. Bakın hangi yüksekliğe çıktı?",
+      "score": 0.3404925763607025
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "Habervinti": "Katarlı dolar milyarderi süper kalite Türk dizileri çekecek",
+      "score": 0.317133367061615
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "Habervinti": " Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı  ",
+      "score": 1.0000003576278687
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "Habervinti": " Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı  ",
+      "score": 0.41874420642852783
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "Habervinti": " Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı  ",
+      "score": 0.5153744220733643
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "Habervinti": " Rus savaş uçağı Ukrayna sınırında düştü ",
+      "score": 0.25979459285736084
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "Habervinti": " Mustafa Sandal, Melis Sütşurup ile evlendi ",
+      "score": 0.2377661019563675
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "Habervinti": "Bayraktar AKINCI'dan yeni bir rekor daha!.. Bakın hangi yüksekliğe çıktı?",
+      "score": 0.27004802227020264
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "Habervinti": "Bayraktar AKINCI'dan yeni bir rekor daha!.. Bakın hangi yüksekliğe çıktı?",
+      "score": 0.31899595260620117
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "Habervinti": " İşte Okan Buruk'un ücreti ",
+      "score": 0.25305575132369995
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "Habervinti": " 3 dakikada 3 milyonluk soygun kamerada ",
+      "score": 0.4415874481201172
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "Habervinti": " Rus savaş uçağı Ukrayna sınırında düştü ",
+      "score": 0.3822745680809021
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "Habervinti": "Katarlı dolar milyarderi süper kalite Türk dizileri çekecek",
+      "score": 0.313404381275177
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "Habervinti": " KKTC'de büyük yangın! ",
+      "score": 0.4640548825263977
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "Habervinti": "Bayraktar AKINCI'dan yeni bir rekor daha!.. Bakın hangi yüksekliğe çıktı?",
+      "score": 0.26592522859573364
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "Habervinti": " Vahit Kirişçi'den orman yangınıyla ilgili sabotaj açıklaması ",
+      "score": 0.3722817301750183
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "Habervinti": "Bayraktar AKINCI'dan yeni bir rekor daha!.. Bakın hangi yüksekliğe çıktı?",
+      "score": 0.30481332540512085
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "Habervinti": " Vahit Kirişçi'den orman yangınıyla ilgili sabotaj açıklaması ",
+      "score": 0.3636528253555298
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "Habervinti": " Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı  ",
+      "score": 0.28744423389434814
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "Habervinti": " Maymun çiçeği virüsünün ismi değiştiriliyor ",
+      "score": 0.2853236496448517
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "Habervinti": " Nuh Albayrak : Batı bize Osmanlı'yı unutun diyor ",
+      "score": 0.23996254801750183
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "Habervinti": " Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı  ",
+      "score": 0.3460905849933624
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "Habervinti": "Bayraktar AKINCI'dan yeni bir rekor daha!.. Bakın hangi yüksekliğe çıktı?",
+      "score": 0.22656944394111633
+    }
+  ],
+  "Medyatava": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "Medyatava": "Türk dizileri çekmek için ortak şirket kurdular",
+      "score": 0.2770576775074005
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "Medyatava": "İthal sperm dönemi başladı: 20 bin lira",
+      "score": 0.22808369994163513
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "Medyatava": "Bayraktar AKINCI'dan bir irtifa rekoru daha",
+      "score": 0.3614879250526428
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "Medyatava": "Bayraktar AKINCI'dan bir irtifa rekoru daha",
+      "score": 0.3485279083251953
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "Medyatava": "Hayranları şokta! Tescilli güzel hayatını kaybetti",
+      "score": 0.29123833775520325
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "Medyatava": "Hayranları şokta! Tescilli güzel hayatını kaybetti",
+      "score": 0.26902899146080017
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "Medyatava": "Hayranları şokta! Tescilli güzel hayatını kaybetti",
+      "score": 0.3189910650253296
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "Medyatava": "Antibiyotiğe dirençli virüs yayılıyor",
+      "score": 0.25239163637161255
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "Medyatava": "Bayraktar AKINCI'dan bir irtifa rekoru daha",
+      "score": 0.24754197895526886
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "Medyatava": "Çapa Tıp Fakültesi mezuniyet töreninde kriz",
+      "score": 0.380401074886322
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "Medyatava": "İthal sperm dönemi başladı: 20 bin lira",
+      "score": 0.3380245566368103
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "Medyatava": "Tam 2 buçuk metre boyundaydı! Tavayla kovaladı",
+      "score": 0.32424575090408325
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "Medyatava": "Bayraktar AKINCI'dan bir irtifa rekoru daha",
+      "score": 0.2252708077430725
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "Medyatava": "Hayranları şokta! Tescilli güzel hayatını kaybetti",
+      "score": 0.26068729162216187
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "Medyatava": "Bayraktar AKINCI'dan bir irtifa rekoru daha",
+      "score": 0.3559771180152893
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "Medyatava": "Koronavirüs salgınında korkutan gelişme!",
+      "score": 0.2507685720920563
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "Medyatava": "Bayraktar AKINCI'dan bir irtifa rekoru daha",
+      "score": 0.263374924659729
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "Medyatava": "Bayraktar AKINCI'dan bir irtifa rekoru daha",
+      "score": 0.2731240391731262
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "Medyatava": "Uzmanlar uyardı: Koronavirüs vakaları artışa geçti",
+      "score": 0.31745147705078125
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "Medyatava": "İstanbul'da kiracı ile ev sahibi arasında çatışma",
+      "score": 0.30308592319488525
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "Medyatava": "Kripto paraya yatırım vaadiyle dolandırdılar",
+      "score": 0.23444578051567078
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "Medyatava": "Koronavirüsün bu semptomuna dikkat",
+      "score": 0.3073016405105591
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "Medyatava": "Dolarda 50 TL korkusu",
+      "score": 0.296939879655838
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "Medyatava": "Perihan Savaş şezlong pozunu paylaştı",
+      "score": 0.26416048407554626
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "Medyatava": "Bayraktar AKINCI'dan bir irtifa rekoru daha",
+      "score": 0.28220459818840027
+    }
+  ],
+  "Hakkariobjektifhaber": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "Hakkariobjektifhaber": "7 ildeki 24 taşınmaz satıldı",
+      "score": 0.26805055141448975
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "Hakkariobjektifhaber": "Avrupa Birliği, Rusya'ya karşı yaptırımların kapsamını genişletmeyi planlıyor: Yeni hedef altın",
+      "score": 0.2808612883090973
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "Hakkariobjektifhaber": "Türkiye-S.Arabistan ortak bildirisi",
+      "score": 0.3044460713863373
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "Hakkariobjektifhaber": "Müdür Muslu: 'Başlattığımız kampanyalarımız devam ediyor",
+      "score": 0.2924935221672058
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "Hakkariobjektifhaber": "Petrol fiyatları düştü",
+      "score": 0.32379740476608276
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "Hakkariobjektifhaber": "Petrol fiyatları düştü",
+      "score": 0.26672592759132385
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "Hakkariobjektifhaber": "Petrol fiyatları düştü",
+      "score": 0.37894177436828613
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "Hakkariobjektifhaber": "Avrupa Birliği, Rusya'ya karşı yaptırımların kapsamını genişletmeyi planlıyor: Yeni hedef altın",
+      "score": 0.27173441648483276
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "Hakkariobjektifhaber": "Müdür Muslu: 'Başlattığımız kampanyalarımız devam ediyor",
+      "score": 0.30441814661026
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "Hakkariobjektifhaber": "Açı Eğitim Kurumlarından YKS Öğrencilerine Moral Gecesi",
+      "score": 0.3605318069458008
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "Hakkariobjektifhaber": "Açı Eğitim Kurumlarından YKS Öğrencilerine Moral Gecesi",
+      "score": 0.3247823715209961
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "Hakkariobjektifhaber": "Afganistan’da deprem: 920 ölü",
+      "score": 0.33424022793769836
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "Hakkariobjektifhaber": "Üzerlerine çığ düştüğü iddia edilen İranlılardan üçüncüsünün de cesedine ulaşıldı",
+      "score": 0.40508976578712463
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "Hakkariobjektifhaber": "Ukrayna'da savaşın 119. günü",
+      "score": 0.23442673683166504
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "Hakkariobjektifhaber": "Ukraynalı çocuklara yardım için Nobel madalyasını 103,5 milyon dolara sattı",
+      "score": 0.32759737968444824
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "Hakkariobjektifhaber": "Yangına müdahale başladı",
+      "score": 0.4474276602268219
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "Hakkariobjektifhaber": "Ukrayna'da savaşın 119. günü",
+      "score": 0.20188450813293457
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "Hakkariobjektifhaber": "İzinsiz salep soğanı toplayanlara 438 bin 372 TL ceza",
+      "score": 0.26347798109054565
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "Hakkariobjektifhaber": "Cem Yılmaz'dan yeni film",
+      "score": 0.18103614449501038
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "Hakkariobjektifhaber": "İsmailağa'nın lideri Ustaosmanoğlu hayatını kaybetti",
+      "score": 0.19190455973148346
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "Hakkariobjektifhaber": "GES için talep toplama bugün sona eriyor",
+      "score": 0.21801897883415222
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "Hakkariobjektifhaber": "Cem Yılmaz'dan yeni film",
+      "score": 0.23879848420619965
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "Hakkariobjektifhaber": "50 kilometre pedal çevirdiler",
+      "score": 0.3832634687423706
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "Hakkariobjektifhaber": "GES için talep toplama bugün sona eriyor",
+      "score": 0.19296005368232727
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "Hakkariobjektifhaber": "30 ton tohum 10 ton buğday verdi",
+      "score": 0.20838066935539246
+    }
+  ],
+  "TRThaber": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "TRThaber": "Brad Pitt, Fransa'daki şatosunda bir yıl boyunca hazine aradığını itiraf etti",
+      "score": 0.21859639883041382
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "TRThaber": "Kripto para madenciliğinin yeni adresi Rusya mı olacak?",
+      "score": 0.26821526885032654
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "TRThaber": "Tahıl koridoru için 'güvenli bölge' kurulacak",
+      "score": 0.32493090629577637
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "TRThaber": "Türkiye'nin 'DATA'sı hayata geçirildi",
+      "score": 0.25030767917633057
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "TRThaber": "Yangın, Marmaris'i kömür karasına bürüdü",
+      "score": 0.21430853009223938
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "TRThaber": "Marmaris'in 'canı' yanıyor",
+      "score": 0.24505077302455902
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "TRThaber": "Yangın, Marmaris'i kömür karasına bürüdü",
+      "score": 0.22756658494472504
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "TRThaber": "Kremlin: Ukrayna’dan tahıl çalmadık",
+      "score": 0.29284191131591797
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "TRThaber": "Meteoroloji yarını işaret etti: Sıcaklık düşüyor",
+      "score": 0.2558188736438751
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "TRThaber": "Türkiye'nin 'DATA'sı hayata geçirildi",
+      "score": 0.21421772241592407
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "TRThaber": "NASA'dan Ay'a nükleer reaktör kurma planı",
+      "score": 0.28508833050727844
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "TRThaber": "Eren Abluka-18 Operasyonu'nda 2 asker şehit oldu",
+      "score": 0.24618780612945557
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "TRThaber": "Kaçak avcılar fotokapana yakalandı, 115 bin 336 lira ceza kesildi",
+      "score": 0.15934479236602783
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "TRThaber": "Kremlin: Ukrayna’dan tahıl çalmadık",
+      "score": 0.18531838059425354
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "TRThaber": "Merkez Bankası rezervleri 101 milyar dolar oldu",
+      "score": 0.313364177942276
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "TRThaber": "Yangın, Marmaris'i kömür karasına bürüdü",
+      "score": 0.42355433106422424
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "TRThaber": "15 ilden gelen ormancılar Marmaris nöbetinde",
+      "score": 0.23403698205947876
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "TRThaber": "Yangın, Marmaris'i kömür karasına bürüdü",
+      "score": 0.19537663459777832
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "TRThaber": "15 ilden gelen ormancılar Marmaris nöbetinde",
+      "score": 0.2255008965730667
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "TRThaber": "Yangın, Marmaris'i kömür karasına bürüdü",
+      "score": 0.27846193313598633
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "TRThaber": "DBP'li Aydeniz'in dokunulmazlığının kaldırılması için hazırlık komisyonu oluşturuldu",
+      "score": 0.3149016499519348
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "TRThaber": "DBP'li Aydeniz'in dokunulmazlığının kaldırılması için hazırlık komisyonu oluşturuldu",
+      "score": 0.1963963359594345
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "TRThaber": "32 yıl sonra nüfus cüzdanı oldu",
+      "score": 0.21835598349571228
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "TRThaber": "DBP'li Aydeniz'in dokunulmazlığının kaldırılması için hazırlık komisyonu oluşturuldu",
+      "score": 0.3096132278442383
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "TRThaber": "15 ilden gelen ormancılar Marmaris nöbetinde",
+      "score": 0.22781720757484436
+    }
+  ],
+  "Dikgazete": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "Dikgazete": "Türkiye Maarif Vakfı Belçika’da faaliyetlerini genişletiyor",
+      "score": 0.36840224266052246
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "Dikgazete": "Crocus Group, IKEA'nın Rusya'daki fabrikalarının satın alınmasını görüşüyor -Fuad Safarov, Moskova'dan bildiriyor-",
+      "score": 0.30309587717056274
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "Dikgazete": "Bakan Karaismailoğlu: 5G'ye azami ölçüde yerli ve milli şebeke ürünlerini kullanarak geçeceğiz",
+      "score": 0.3772677779197693
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "Dikgazete": "Bakan Karaismailoğlu: 5G'ye azami ölçüde yerli ve milli şebeke ürünlerini kullanarak geçeceğiz",
+      "score": 0.36260277032852173
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "Dikgazete": "Denizde sürüklenen tekne, Serdar 7M Sahil Gözetleme Radarı'yla tespit edilerek kurtarıldı",
+      "score": 0.40716788172721863
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "Dikgazete": "Denizde sürüklenen tekne, Serdar 7M Sahil Gözetleme Radarı'yla tespit edilerek kurtarıldı",
+      "score": 0.3125319480895996
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "Dikgazete": "Denizde sürüklenen tekne, Serdar 7M Sahil Gözetleme Radarı'yla tespit edilerek kurtarıldı",
+      "score": 0.45309558510780334
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "Dikgazete": "Ukrayna: Rus ordusu, Bahmut kenti yönünde kayıplar veriyor",
+      "score": 0.43932294845581055
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "Dikgazete": "Ukrayna: Rus ordusu, Bahmut kenti yönünde kayıplar veriyor",
+      "score": 0.43932294845581055
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "Dikgazete": "Gastronomi Sokağı, Gastronomi Festivali ile açıldı",
+      "score": 0.28883519768714905
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "Dikgazete": "Gastronomi Sokağı, Gastronomi Festivali ile açıldı",
+      "score": 0.2619932293891907
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "Dikgazete": "Bakan Karaismailoğlu: 5G'ye azami ölçüde yerli ve milli şebeke ürünlerini kullanarak geçeceğiz",
+      "score": 0.31560277938842773
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "Dikgazete": "Büyük boru hatlarının bakıma girmesi Avrupa'da gaz krizini tırmandıracak",
+      "score": 0.2427489161491394
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "Dikgazete": "Klasik Yay Erkek Takımı, Okçuluk Dünya Kupası'nın üçüncü ayağında 3. oldu",
+      "score": 0.32778841257095337
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "Dikgazete": "Klasik Yay Erkek Takımı, Okçuluk Dünya Kupası'nın üçüncü ayağında 3. oldu",
+      "score": 0.32778841257095337
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "Dikgazete": "Denizde sürüklenen tekne, Serdar 7M Sahil Gözetleme Radarı'yla tespit edilerek kurtarıldı",
+      "score": 0.4475356936454773
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "Dikgazete": "Rusya: Ukrayna’da 211 uçak, 132 helikopter, 3 bin 750 tank ve zırhlı araç yok ettik",
+      "score": 0.39609843492507935
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "Dikgazete": "Bakan Kirişci: Marmaris'teki orman yangınınına müdahale eden hava aracı sayısı 41'e ulaştı",
+      "score": 0.3327529728412628
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "Dikgazete": "Doğaseverlerin yeni rotası Hakkari'de turizm hareketliliği",
+      "score": 0.27457600831985474
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "Dikgazete": "Bakan Kirişci: Marmaris'teki orman yangınınına müdahale eden hava aracı sayısı 41'e ulaştı",
+      "score": 0.34058678150177
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "Dikgazete": "CSKA Moskova'dan Yusuf Yazıcı'ya veda",
+      "score": 0.31004154682159424
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "Dikgazete": "Denizde sürüklenen tekne, Serdar 7M Sahil Gözetleme Radarı'yla tespit edilerek kurtarıldı",
+      "score": 0.36446452140808105
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "Dikgazete": "Denizde sürüklenen tekne, Serdar 7M Sahil Gözetleme Radarı'yla tespit edilerek kurtarıldı",
+      "score": 0.39751774072647095
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "Dikgazete": "Doğaseverlerin yeni rotası Hakkari'de turizm hareketliliği",
+      "score": 0.3033013939857483
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "Dikgazete": "Denizde sürüklenen tekne, Serdar 7M Sahil Gözetleme Radarı'yla tespit edilerek kurtarıldı",
+      "score": 0.29500195384025574
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "Dikgazete": "Denizde sürüklenen tekne, Serdar 7M Sahil Gözetleme Radarı'yla tespit edilerek kurtarıldı",
+      "score": 0.4880952537059784
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "Dikgazete": "Ordu'da fındık kabuğundan aktif karbon üretimi için çalışma başlatıldı",
+      "score": 0.2597983181476593
+    }
+  ],
+  "KamuBulteni": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "KamuBulteni": "TFF’nin Yeni Başkanı Belli Oldu TFF Tarihinde Bir İlk Yaşandı",
+      "score": 0.3493293523788452
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "KamuBulteni": "Akıllı Telefonunuzu Güvenilir Şekilde Kullanmanın 12 Yolu ",
+      "score": 0.19051383435726166
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "KamuBulteni": "Bakan Nebati'den Yeni GES Açıklaması: GES'e...",
+      "score": 0.39628326892852783
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "KamuBulteni": "Bakan Nebati'den Yeni GES Açıklaması: GES'e...",
+      "score": 0.49600595235824585
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "KamuBulteni": "CHP’den Tanju Özcan’a Kötü Haber Disipline Sevk Edildi",
+      "score": 0.2606393098831177
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "KamuBulteni": "CHP’den Tanju Özcan’a Kötü Haber Disipline Sevk Edildi",
+      "score": 0.3303450345993042
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "KamuBulteni": "Milli Takım 3'te 3 Yaptı",
+      "score": 0.2845282554626465
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "KamuBulteni": "Rakamlar Açıklandı Kurbanlıklara Büyük Zam",
+      "score": 0.25363224744796753
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "KamuBulteni": "Milli Eğitim Bakanı Özer'den Tüm Öğretmenlere Müjde Geldi",
+      "score": 0.3079013526439667
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "KamuBulteni": "TFF’nin Yeni Başkanı Belli Oldu TFF Tarihinde Bir İlk Yaşandı",
+      "score": 0.304561972618103
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "KamuBulteni": "Jandarma Astsubay Alımı 2021 Mezuniyet Şartı Lisans ",
+      "score": 0.3995282053947449
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "KamuBulteni": "SON DAKİKA! Fahrettin Koca Açıklama Yapıyor - Tedbirler Yeniden mi Gelecek Sorusuna Yanıt Geldi! ",
+      "score": 0.240365669131279
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "KamuBulteni": "Milli Takım 3'te 3 Yaptı",
+      "score": 0.509029746055603
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "KamuBulteni": "CHP’den Tanju Özcan’a Kötü Haber Disipline Sevk Edildi",
+      "score": 0.2207566350698471
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "KamuBulteni": "Bakan Nebati'den Yeni GES Açıklaması: GES'e...",
+      "score": 0.25670742988586426
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "KamuBulteni": "Yabancı Şirket Burada Yok Diyerek Kuyuları Kapatmıştı Bir İlimizde Petrol Bulundu",
+      "score": 0.28446704149246216
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "KamuBulteni": "Haftalık Koronavirüs Vaka Sayıları Açıklandı",
+      "score": 0.19888874888420105
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "KamuBulteni": "İstanbul İçin Tsunami Uyarısı Geldi",
+      "score": 0.29034423828125
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "KamuBulteni": "Haftalık Koronavirüs Vaka Sayıları Açıklandı",
+      "score": 0.25038591027259827
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "KamuBulteni": "İstanbul İçin Tsunami Uyarısı Geldi",
+      "score": 0.5113093852996826
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "KamuBulteni": "Bakan Nebati'den Yeni GES Açıklaması: GES'e...",
+      "score": 0.3323523998260498
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "KamuBulteni": "TFF’nin Yeni Başkanı Belli Oldu TFF Tarihinde Bir İlk Yaşandı",
+      "score": 0.2726786434650421
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "KamuBulteni": "Bakan Nebati'den Yeni GES Açıklaması: GES'e...",
+      "score": 0.3091692626476288
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "KamuBulteni": "İstanbul İçin Tsunami Uyarısı Geldi",
+      "score": 0.2811962366104126
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "KamuBulteni": "Haftalık Koronavirüs Vaka Sayıları Açıklandı",
+      "score": 0.27467024326324463
+    }
+  ],
+  "Medyafaresi": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "Medyafaresi": "YTÜ Yemekhanesindeki Dolmamış Dolma Gündem Oldu!",
+      "score": 0.26008015871047974
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "Medyafaresi": " Cancri Jewelry Skandalı: 110 Bin Kişiyi Dolandırıp Kaçmışlar",
+      "score": 0.23699837923049927
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "Medyafaresi": "MasterChef Türkiye Yeni Sezon Tarihi Açıklandı!",
+      "score": 0.20068836212158203
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "Medyafaresi": "SON DAKİKA Erdoğan'dan Flaş 3600 Ek Gösterge Açıklaması: Memurlara 600 Puan Yükseltme Kimleri Kapsıyor? Maaşlar Ne Kadar Artacak?",
+      "score": 0.2331843227148056
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "Medyafaresi": "ABD'li Yüzücü Su Altında Bayıldı! Koçu Hayatını Kurtardı",
+      "score": 0.4391225576400757
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "Medyafaresi": "ABD'li Yüzücü Su Altında Bayıldı! Koçu Hayatını Kurtardı",
+      "score": 0.3507358431816101
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "Medyafaresi": "ABD'li Yüzücü Su Altında Bayıldı! Koçu Hayatını Kurtardı",
+      "score": 0.461620569229126
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "Medyafaresi": "Ünlü Ekonomistten Korkutan Dolar Senaryosu: Dolar 50 TL olur mu?",
+      "score": 0.2028896063566208
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "Medyafaresi": "MasterChef Türkiye Yeni Sezon Tarihi Açıklandı!",
+      "score": 0.3174351751804352
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "Medyafaresi": "Acun Ilıcalı Kızının Mezuniyetinde Duygulandı!",
+      "score": 0.3134140074253082
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "Medyafaresi": "MasterChef Türkiye Yeni Sezon Tarihi Açıklandı!",
+      "score": 0.28647762537002563
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "Medyafaresi": "ABD'li Yüzücü Su Altında Bayıldı! Koçu Hayatını Kurtardı",
+      "score": 0.26100295782089233
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "Medyafaresi": "ABD'li Yüzücü Su Altında Bayıldı! Koçu Hayatını Kurtardı",
+      "score": 0.17618060111999512
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "Medyafaresi": "ABD'li Yüzücü Su Altında Bayıldı! Koçu Hayatını Kurtardı",
+      "score": 0.362328439950943
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "Medyafaresi": "leyna Tilki Süper Mini Eteği İle Konserde Kendinden Geçti!",
+      "score": 0.34725260734558105
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "Medyafaresi": "Marmaris'teki Orman Yangınında Son Durum",
+      "score": 0.3547816872596741
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "Medyafaresi": "Onur Tuna Ve Yeni Aşkı Göz Kamaştırdı!",
+      "score": 0.1679535210132599
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "Medyafaresi": "Marmaris'teki Orman Yangınında Son Durum",
+      "score": 0.20560267567634583
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "Medyafaresi": "MasterChef Türkiye Yeni Sezon Tarihi Açıklandı!",
+      "score": 0.25216034054756165
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "Medyafaresi": "Marmaris'teki Orman Yangınında Son Durum",
+      "score": 0.28637707233428955
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "Medyafaresi": "ROK'un FETÖ'cü Bank Asya'dan Aldığı Krediyi Aydın Doğan Ahmet Hakan'a Yazdırmış",
+      "score": 0.2517716586589813
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "Medyafaresi": " Ali Kırca'nın Son Halini Görenler Şaştı Kaldı",
+      "score": 0.33470961451530457
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "Medyafaresi": "Ünlü Ekonomistten Korkutan Dolar Senaryosu: Dolar 50 TL olur mu?",
+      "score": 0.33529388904571533
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "Medyafaresi": "ABD'li Yüzücü Su Altında Bayıldı! Koçu Hayatını Kurtardı",
+      "score": 0.28186193108558655
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "Medyafaresi": "ROK'un FETÖ'cü Bank Asya'dan Aldığı Krediyi Aydın Doğan Ahmet Hakan'a Yazdırmış",
+      "score": 0.175673246383667
+    }
+  ],
+  "Mynet": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "Mynet": "İzleyicisiyle buluştu! Galası ünlüler geçidine döndü",
+      "score": 0.2817259132862091
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "Mynet": " Araç sahipleri dikkat! O ücretlere zam geldi",
+      "score": 0.31247830390930176
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "Mynet": "İzleyicisiyle buluştu! Galası ünlüler geçidine döndü",
+      "score": 0.27955591678619385
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "Mynet": "GSS borcu olanlar dikkat! 10 bin liraya kadar...",
+      "score": 0.2436826229095459
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "Mynet": "Havuzda bayıldı, dibe battı! Gözyaşları...",
+      "score": 0.5044175386428833
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "Mynet": "Havuzda bayıldı, dibe battı! Gözyaşları...",
+      "score": 0.41985034942626953
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "Mynet": "Havuzda bayıldı, dibe battı! Gözyaşları...",
+      "score": 0.45098772644996643
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "Mynet": "Ağızdan ağza gezdirdiler! Sonuçları çok ağır oldu",
+      "score": 0.20760025084018707
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "Mynet": "Eğlence ve huzur dolu bir tatile hazır mısınız?",
+      "score": 0.3784638047218323
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "Mynet": "Kızı mezun oldu! Eski eşiyle pozunu paylaştı",
+      "score": 0.42360442876815796
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "Mynet": "Oyuncu kadrosu açıklandı! Dev isimler boy gösterecek",
+      "score": 0.318254292011261
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "Mynet": "Ağızdan ağza gezdirdiler! Sonuçları çok ağır oldu",
+      "score": 0.29992514848709106
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "Mynet": "Yıllarca kullanabileceğiniz hem kaliteli hem dayanıklı en iyi basketbol topları",
+      "score": 0.21128012239933014
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "Mynet": "Havuzda bayıldı, dibe battı! Gözyaşları...",
+      "score": 0.3713861107826233
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "Mynet": "Oyuncu kadrosu açıklandı! Dev isimler boy gösterecek",
+      "score": 0.355170875787735
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "Mynet": "Arı paniği, kazaya neden oldu!",
+      "score": 0.22623969614505768
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "Mynet": "Yıllarca kullanabileceğiniz hem kaliteli hem dayanıklı en iyi basketbol topları",
+      "score": 0.22795936465263367
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "Mynet": "Bikinisi ve filesiyle meydan okudu! “Büyük olduğumu söyleyen...”",
+      "score": 0.26620492339134216
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "Mynet": "Buralarda tamamen özgürsünüz! En iyi çıplaklar plajı...",
+      "score": 0.2881169021129608
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "Mynet": "Ünlü şarkıcının talihsiz anları!",
+      "score": 0.26585525274276733
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "Mynet": "Mane'nin yeni takımı resmen belli oldu! ",
+      "score": 0.20031222701072693
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "Mynet": "Sinir krizi geçirdi, yapmadığı kalmadı! Sebebi şaşkına çevirdi",
+      "score": 0.30968335270881653
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "Mynet": "İki yıl sonra açıldı! 5 ayda 40 bin ziyaretçiyi ağırladı",
+      "score": 0.2872273921966553
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "Mynet": "Havuzda bayıldı, dibe battı! Gözyaşları...",
+      "score": 0.2460605353116989
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "Mynet": "Yıllarca kullanabileceğiniz hem kaliteli hem dayanıklı en iyi basketbol topları",
+      "score": 0.283958375453949
+    }
+  ],
+  "OdaTV": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "OdaTV": "Hacı Sabancı “donat”lı doğum günü paylaşımı",
+      "score": 0.2700471878051758
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "OdaTV": "Soylu “helikopter” sorusuna “çöp arabası” yanıtını verdi",
+      "score": 0.3135124742984772
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "OdaTV": "Soylu “helikopter” sorusuna “çöp arabası” yanıtını verdi",
+      "score": 0.3135124742984772
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "OdaTV": "Hacı Sabancı “donat”lı doğum günü paylaşımı",
+      "score": 0.2812364995479584
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "OdaTV": "Mars’tan suyu işaret eden fotoğraflar",
+      "score": 0.23324155807495117
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "OdaTV": "Milli yüzücü son anda kurtarıldı",
+      "score": 0.40713194012641907
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "OdaTV": "Milli yüzücü son anda kurtarıldı",
+      "score": 0.3860415518283844
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "OdaTV": "Milli yüzücü son anda kurtarıldı",
+      "score": 0.411246120929718
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "OdaTV": "3 bin Ukrayna askeri kuşatma altında",
+      "score": 0.3270096480846405
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "OdaTV": "Mars’tan suyu işaret eden fotoğraflar",
+      "score": 0.225204199552536
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "OdaTV": "Fenerbahçe'nin bayrağı boğaz köprülerine asıldı",
+      "score": 0.2783127427101135
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "OdaTV": "3 dakikada İmamoğlu’nun 3 yılı",
+      "score": 0.25729110836982727
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "OdaTV": "Spordan vazgeçti, 18 milyona satışa çıktı",
+      "score": 0.26769310235977173
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "OdaTV": "3 dakikada İmamoğlu’nun 3 yılı",
+      "score": 0.40672802925109863
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "OdaTV": "Milli yüzücü son anda kurtarıldı",
+      "score": 0.3452989459037781
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "OdaTV": "Detaylar ortaya çıktı: Adım adım 36 milyonluk vurgun",
+      "score": 0.2742677628993988
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "OdaTV": "Marmaris’te neler oluyor: Toprak yangını",
+      "score": 0.36273276805877686
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "OdaTV": "Spordan vazgeçti, 18 milyona satışa çıktı",
+      "score": 0.27231866121292114
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "OdaTV": "Sosyal medyanın konuştuğu deniz canlısının adı ne",
+      "score": 0.27443256974220276
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "OdaTV": "Sosyal medyanın konuştuğu deniz canlısının adı ne",
+      "score": 0.2873234450817108
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "OdaTV": "Sosyal medyanın konuştuğu deniz canlısının adı ne",
+      "score": 0.39937591552734375
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "OdaTV": "Sosyal medyanın konuştuğu deniz canlısının adı ne",
+      "score": 0.28806179761886597
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "OdaTV": "Pandeminin gözdesi villalarda bayram yoğunluğu yüzde 90'a ulaştı",
+      "score": 0.2988802492618561
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "OdaTV": "Sosyal medyanın konuştuğu deniz canlısının adı ne",
+      "score": 0.19124911725521088
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "OdaTV": "Sosyal medyanın konuştuğu deniz canlısının adı ne",
+      "score": 0.36235618591308594
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "OdaTV": "Sosyal medyanın konuştuğu deniz canlısının adı ne",
+      "score": 0.2850536108016968
+    }
+  ],
+  "NTV": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "NTV": "Bir devrin güç simgesi Süleymaniye Camii hakkında bilmeniz gerekenler",
+      "score": 0.24563047289848328
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "NTV": "Dünyanın en yaşanabilir şehirleri    ",
+      "score": 0.26089683175086975
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "NTV": "PEAKUP, şirketlerin buluta geçişinde avantajlar sağlıyor",
+      "score": 0.35418713092803955
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "NTV": "konut kredilerine düzenleme",
+      "score": 0.33151775598526
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "NTV": "Beyin şeklinde yüzen şehir",
+      "score": 0.31520962715148926
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "NTV": "En iyi Hint filmleri - (Bollywood sinemasının en yüksek puanlı filmleri)",
+      "score": 0.2926929295063019
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "NTV": "3 YIL İÇİNDE 3 KIZI DA öldü",
+      "score": 0.4302101731300354
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "NTV": "Yeni küresel salgın tehdidi",
+      "score": 0.3511654734611511
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "NTV": "Yeni küresel salgın tehdidi    ",
+      "score": 0.3511654734611511
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "NTV": "Okullarda 2. dönem ara tatili ne zaman? (Nisan ara tatili ne zaman başlayacak?)",
+      "score": 0.4093133807182312
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "NTV": "10. yıllarına özel portre",
+      "score": 0.31366491317749023
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "NTV": "2022 YKS ne zaman yapılacak? (TYT, AYT, YDT tarihleri)",
+      "score": 0.4403075575828552
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "NTV": "tazminata mahkum etti    ",
+      "score": 0.3732788562774658
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "NTV": "3 YIL İÇİNDE 3 KIZI DA öldü",
+      "score": 0.416960746049881
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "NTV": "Marsilya, İskenderiye ve İstanbul tsunami tehlikesi altında    ",
+      "score": 0.21380268037319183
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "NTV": "200 lira aldı, 4 bin lira verdi",
+      "score": 0.2964942455291748
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "NTV": "KKTC'deki yangına müdahale sürüyor    ",
+      "score": 0.42031633853912354
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "NTV": "Beyin şeklinde yüzen şehir",
+      "score": 0.24895411729812622
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "NTV": "Marmaris'te sabotaj şüphesi    ",
+      "score": 0.29267197847366333
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "NTV": "Yeni küresel salgın tehdidi",
+      "score": 0.25848543643951416
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "NTV": "Yeni küresel salgın tehdidi    ",
+      "score": 0.25848543643951416
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "NTV": "Marmara'ya akan beyaz sıvıya inceleme    ",
+      "score": 0.3086376190185547
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "NTV": "Çin, \"Tienşing-1\" test uydusunu fırlattı    ",
+      "score": 0.2921372354030609
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "NTV": "Yanan ormanlık alan havadan görüntülendi    ",
+      "score": 0.26122474670410156
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "NTV": "Elinde 50 milyon akıllı telefon kaldı    ",
+      "score": 0.5056618452072144
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "NTV": "Marsilya, İskenderiye ve İstanbul tsunami tehlikesi altında    ",
+      "score": 0.3058263063430786
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "NTV": "28. dönem POMEM mülakat sonuçları ne zaman açıklanacak?",
+      "score": 0.2685031592845917
+    }
+  ],
+  "pressturk": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "pressturk": "Galatasaray'ın yeni teknik direktörü belli oldu!",
+      "score": 0.3166581690311432
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "pressturk": "Kulüplerin harcama limitleri belli oldu",
+      "score": 0.17556211352348328
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "pressturk": "İMAMOGLU \"Ne olursa olsun adaylıkta kararlıyım\" demiş",
+      "score": 0.16908855736255646
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "pressturk": "Kulüplerin harcama limitleri belli oldu",
+      "score": 0.23030146956443787
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "pressturk": "Kendi kazdıkları kuyuya düşecekler",
+      "score": 0.31604063510894775
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "pressturk": "Kendi kazdıkları kuyuya düşecekler",
+      "score": 0.24775710701942444
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "pressturk": "Kendi kazdıkları kuyuya düşecekler",
+      "score": 0.24489282071590424
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "pressturk": "Çok sayıda kişi ve şirketin mal varlığı donduruldu",
+      "score": 0.22827288508415222
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "pressturk": "2018 seçimlerini bilen ORC'den Haziran anketi!",
+      "score": 0.21532157063484192
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "pressturk": "Masterchef jürisi Somer Şef'ten seks itirafı",
+      "score": 0.22866791486740112
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "pressturk": "İktidar 2022'nin ortasında yurttaştan 1 trilyon TL daha ek bütçe istedi",
+      "score": 0.33294880390167236
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "pressturk": "İktidar 2022'nin ortasında yurttaştan 1 trilyon TL daha ek bütçe istedi",
+      "score": 0.28342148661613464
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "pressturk": "Kendi kazdıkları kuyuya düşecekler",
+      "score": 0.25231897830963135
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "pressturk": "Masterchef jürisi Somer Şef'ten seks itirafı",
+      "score": 0.15905381739139557
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "pressturk": "Yürekleri ağza getiren sözler: 3. Dünya Savaşı'na hazır olun",
+      "score": 0.2714160680770874
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "pressturk": "Kendi kazdıkları kuyuya düşecekler",
+      "score": 0.15749895572662354
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "pressturk": "5 yıllık sözleşme imzaladı: İşte Burak Yılmaz'ın yeni adresi",
+      "score": 0.21767455339431763
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "pressturk": "Bin Selman neden para vermedi?",
+      "score": 0.17418332397937775
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "pressturk": "5 yıllık sözleşme imzaladı: İşte Burak Yılmaz'ın yeni adresi",
+      "score": 0.2580839991569519
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "pressturk": "TFF açıkladı! Süper Lig'de yabancı kuralı belli oldu",
+      "score": 0.19483023881912231
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "pressturk": "Türkiye mi yoksa Yunanistan mı daha güçlü?",
+      "score": 0.16891202330589294
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "pressturk": "Kulüpler yeni TFF'den neler istedi?",
+      "score": 0.2564953565597534
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "pressturk": "\"Mor beyin\"den çıkan, bağışları ve bağlantıları tartışılan TFF Başkanı ",
+      "score": 0.16053393483161926
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "pressturk": "İyi Parti'nin merkez sağ sayıldığı bir Türkiye'nin vay haline!",
+      "score": 0.21722370386123657
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "pressturk": "5 yıllık sözleşme imzaladı: İşte Burak Yılmaz'ın yeni adresi",
+      "score": 0.26144537329673767
+    }
+  ],
+  "sondakika": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "sondakika": "İsmailağa cemaati lideri Mahmut Ustaosmanoğlu yaşamını yitirdi",
+      "score": 0.24354752898216248
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "sondakika": "Girdiği 3 farklı iş yerine esnafa saldıran kadın, seyir halindeki aracın üzerine atlayarak ortalığı birbirine kattı",
+      "score": 0.2044312059879303
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "sondakika": "Erdoğan-Selman görüşmesinin detayları ortaya çıktı: Örtülü ambargo kaldırılıyor, iki ülke arasında swap anlaşması yolda",
+      "score": 0.26944500207901
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "sondakika": "Dışişleri Bakanı Çavuşoğlu'ndan İsrail açıklaması: İlişkilerin büyükelçilik seviyesine çıkarılması için çalışma başlatıldı",
+      "score": 0.28621619939804077
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "sondakika": "Akıl sağlığı sorunlarıyla uğraşan Instagram fenomeni ve model Niece Waidhofer intihar etti",
+      "score": 0.34749019145965576
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "sondakika": "Hayko Cepkin konserinde talihsiz kaza! Kucağına almaya çalıştığı direk dansçısıyla birlikte yere düştü",
+      "score": 0.3632690906524658
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "sondakika": "Dünya Şampiyonası'nda korkutan olay! Genç sporcu suyun altında baygınlık geçirdi",
+      "score": 0.3837433159351349
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "sondakika": "ABD'den Türkiye'nin olası Suriye operasyonu hakkında açıklama: Engellemek için baskı yapıyoruz, askeri operasyon bölgede yaşayanlar için felaket olur",
+      "score": 0.30836692452430725
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "sondakika": "Marmaris yangınında yeni gün! 51 hane tahliye edildi, havadan müdahale tekrar başladı",
+      "score": 0.22744639217853546
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "sondakika": "Acun Ilıcalı kızının mezuniyet töreninde 13 sene evli kaldığı eski eşi Zeynep Yılmaz'la birlikte poz verdi",
+      "score": 0.34342333674430847
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "sondakika": "Numan Kurtulmuş'tan asgari ücret ve emekli maaşına zam müjdesi: Temmuz ayında 40'lık bir dokunuş gerçekleştirilecek",
+      "score": 0.2654750943183899
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "sondakika": "Yabancı uyruklu iş adamı, yurt dışına çıktığında aldığı haberle yıkıldı! 1 yıllık eşi 1 milyon liralık eşyaları alarak kayıplara karıştı",
+      "score": 0.3603748083114624
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "sondakika": "Marmaris'te orman yangınındaki son durumu Bakan Kirişçi paylaştı: Yaklaşık 3 bin hektarlık alan yangından etkilendi",
+      "score": 0.26085519790649414
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "sondakika": "Şarkıcı Taylor Swift'ten sevgilisiyle denizin ortasında romantik anlar! Meraklı bakışlara aldırmadan öpüştüler",
+      "score": 0.3383719325065613
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "sondakika": "5 metre uzunluğunda, 97 kilo ağırlığında, karnında 122 yumurta bulunan dev piton araştırmacıları şaşkına uğrattı! Eyalet rekoru kırdı...",
+      "score": 0.33948415517807007
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "sondakika": "Marmaris yangınında yeni gün! 51 hane tahliye edildi, havadan müdahale tekrar başladı",
+      "score": 0.3289359211921692
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "sondakika": "Fenerbahçe 9 yabancı futbolcusunu transfer listesine koydu! İşte belirlenen bonservis bedelleri",
+      "score": 0.2442592978477478
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "sondakika": "Marmaris yangınında yeni gün! 51 hane tahliye edildi, havadan müdahale tekrar başladı",
+      "score": 0.29331856966018677
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "sondakika": "Şarkıcı Taylor Swift'ten sevgilisiyle denizin ortasında romantik anlar! Meraklı bakışlara aldırmadan öpüştüler",
+      "score": 0.3577229678630829
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "sondakika": "Marmaris'te orman yangının ilk başladığı bölge helikopter ile görüntülendi, manzara yürek parçaladı",
+      "score": 0.31604909896850586
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "sondakika": "Aralarında FETÖ elebaşı Gülen'in yeğeninin de olduğu 5'i FETÖ'cü 10 kişi Yunanistan'a geçmeye çalışırken yakalandı",
+      "score": 0.22644780576229095
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "sondakika": "Takım değiştiren Ümit Karan'ın yeni adresi belli oldu",
+      "score": 0.28471359610557556
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "sondakika": "5 metre uzunluğunda, 97 kilo ağırlığında, karnında 122 yumurta bulunan dev piton araştırmacıları şaşkına uğrattı! Eyalet rekoru kırdı...",
+      "score": 0.3183892071247101
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "sondakika": "Dünya Şampiyonası'nda korkutan olay! Genç sporcu suyun altında baygınlık geçirdi",
+      "score": 0.2820136249065399
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "sondakika": "Marmaris'te orman yangınındaki son durumu Bakan Kirişçi paylaştı: Yaklaşık 3 bin hektarlık alan yangından etkilendi",
+      "score": 0.22387611865997314
+    }
+  ],
+  "t24": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "t24": "Türkiye, FIFA dünya sıralamasında 1 basamak yükseldi",
+      "score": 0.2663980722427368
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "t24": "Samsung'un satışları düştü, milyonlarca telefon depolarda bekliyor",
+      "score": 0.23362301290035248
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "t24": "Bakan Akar'dan 'tahıl koridoru' açıklaması: İstanbul'da bir harekat merkezi kurulması konusunda genel bir anlayış birliği var  ",
+      "score": 0.2662793695926666
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "t24": "DP'li Enginyurt: Faiz altıncı defa pas geçilerek ekonomiye en büyük darbe indirilmiştir",
+      "score": 0.2719525396823883
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "t24": "CHP'li Ağbaba: Marmaris yanarken Saray'da milletin parasını Arap müziği eşliğinde yiyorlar; zehir zıkkım olsun",
+      "score": 0.29452890157699585
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "t24": "CHP'li Ağbaba: Marmaris yanarken Saray'da milletin parasını Arap müziği eşliğinde yiyorlar; zehir zıkkım olsun",
+      "score": 0.2741416096687317
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "t24": "AFAD'dan Marmaris açıklaması: Can kaybı ve kayıp vatandaşımız yok; 7 kişi dumandan etkilendi, 3'ünün tedavisi sürüyor",
+      "score": 0.3563055098056793
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "t24": "Kremlin: Rusya Ukrayna’dan tahıl çalmadı",
+      "score": 0.29851096868515015
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "t24": "Karamollaoğlu: Yılbaşında '6 ay sonra her şey güllük gülistanlık olacak' diye tarih verenlerin süresi doluyor",
+      "score": 0.27829328179359436
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "t24": "Galatasaray'da Okan Buruk için imza töreni düzenlenecek",
+      "score": 0.22502709925174713
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "t24": "‘Dolar 10 TL olacak’ dediği için yargılanan Mütercimler: Doları 18 TL’ye çıkaranların peşine düşsünler",
+      "score": 0.2709748446941376
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "t24": "Kur korumalı mevduatta biriken tutar 992 milyar TL'ye yükseldi",
+      "score": 0.2945655286312103
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "t24": "AFAD'dan Marmaris açıklaması: Can kaybı ve kayıp vatandaşımız yok; 7 kişi dumandan etkilendi, 3'ünün tedavisi sürüyor",
+      "score": 0.24851585924625397
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "t24": "AFAD'dan Marmaris açıklaması: Can kaybı ve kayıp vatandaşımız yok; 7 kişi dumandan etkilendi, 3'ünün tedavisi sürüyor",
+      "score": 0.24619035422801971
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "t24": "Kur korumalı mevduatta biriken tutar 992 milyar TL'ye yükseldi",
+      "score": 0.35958030819892883
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "t24": "CHP'li Ağbaba: Marmaris yanarken Saray'da milletin parasını Arap müziği eşliğinde yiyorlar; zehir zıkkım olsun",
+      "score": 0.23605972528457642
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "t24": "Emre Mor için dev kapışma; Beşiktaş'ın ardından Fenerbahçe de devrede!",
+      "score": 0.2363610863685608
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "t24": "Valilik kararıyla sahneden indirilen Rapçi Sefo'dan tepki: Bu ülkede gerçekten çok sıkıldım, bu saçmalık",
+      "score": 0.21832361817359924
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "t24": "Kremlin: Rusya Ukrayna’dan tahıl çalmadı",
+      "score": 0.24008725583553314
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "t24": "Bakan Akar'dan 'tahıl koridoru' açıklaması: İstanbul'da bir harekat merkezi kurulması konusunda genel bir anlayış birliği var  ",
+      "score": 0.2528766989707947
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "t24": "Denizli'de 8 milyon yıllık hayvan fosilleri bulundu",
+      "score": 0.29434871673583984
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "t24": "Babacan'dan ekonomi yorumu: Bütün dengeler bozuldu ama çabuk düzelir",
+      "score": 0.26919203996658325
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "t24": "Yurt içi yerleşiklerin döviz mevduatları 627 milyon dolar arttı",
+      "score": 0.2512170374393463
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "t24": "NATO: Türkiye'nin meşru endişelerini gidermek için çalışıyoruz",
+      "score": 0.23722752928733826
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "t24": "Türkiye, FIFA dünya sıralamasında 1 basamak yükseldi",
+      "score": 0.18055862188339233
+    }
+  ],
+  "sendika": [
+    {
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "sendika": "Batı öncülüğündeki küreselleşme sona erebilir ancak yeni küreselleşmenin yüzü ‘Doğulu’ olabilir – E. Ahmet Tonak & Vijay Prashad",
+      "score": 0.2346743643283844
+    },
+    {
+      "denizgazete": "Rusya bağlantılı binlerce lüks araba Zeebrugge Limanı'nda birikiyor",
+      "sendika": "İngiltere’de demiryolu işçileri 30 yılın en büyük grevine çıkıyor",
+      "score": 0.27118977904319763
+    },
+    {
+      "denizgazete": "IBIA, \"Temiz Gemi Geleceğine Geçiş\" Konferansı gerçekleştirildi",
+      "sendika": "41 derece sıcaklığa 43 saatlik yolculuk ve mesleğin onuruna sahip çıkmak",
+      "score": 0.3316817879676819
+    },
+    {
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "sendika": "İnsan genomu ilk defa eksiksiz olarak dizilendi – Sarah Bates (National Institutes of Health/Evrim Ağacı)",
+      "score": 0.2589893341064453
+    },
+    {
+      "denizgazete": "Hong Kong'un simgelerinden yüzen restoran Güney Çin Denizi'nde battı",
+      "sendika": "Leylekler elektrik akımına kapılma riskiyle karşı karşıya: “Devlet yetkilileri bir çift leyleğin hayatını kurtaramıyor”",
+      "score": 0.2490849643945694
+    },
+    {
+      "denizgazete": "Danimarka bayraklı tankerin kargo tankında 2 Hintli denizci öldü",
+      "sendika": "Leylekler elektrik akımına kapılma riskiyle karşı karşıya: “Devlet yetkilileri bir çift leyleğin hayatını kurtaramıyor”",
+      "score": 0.21770812571048737
+    },
+    {
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "sendika": "Leylekler elektrik akımına kapılma riskiyle karşı karşıya: “Devlet yetkilileri bir çift leyleğin hayatını kurtaramıyor”",
+      "score": 0.21411794424057007
+    },
+    {
+      "denizgazete": "IRC: Ukrayna limanlarındaki Rus ablukası ölümcül sonuçlar doğurabilir, Afrika kıtlıkla karşı karşıya",
+      "sendika": "Fındıklı halkı, kafes balıkçılığı için yapılması planlanan ÇED toplantısını iptal ettirdi",
+      "score": 0.31806397438049316
+    },
+    {
+      "denizgazete": " İLKFER Grup 'yaza merhaba' dedi ",
+      "sendika": "KuirMar’ın “Onur Haftası Pikniği”ne gelen tehditler sonrası açıklama: “Okulun öznesiyiz, buradayız ve alışın gitmiyoruz”",
+      "score": 0.2979089319705963
+    },
+    {
+      "denizgazete": " İTÜ DEFAMED Cumhuriyet Balosu'ndan kareler! ",
+      "sendika": "22. Samandağ Evvel Temmuz Festivali 11-14 Temmuz’da: Savaşa, yoksulluğa, ötekileştiriciliğe, asimilasyona karşı barış, kardeşlik ve özgürlük",
+      "score": 0.23538482189178467
+    },
+    {
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "sendika": "Sosyalist hareket 1 Mayıs 2022’yi nasıl değerlendiriyor?",
+      "score": 0.36352190375328064
+    },
+    {
+      "denizgazete": "Ever Given tazminat talebi 2 milyar doları aşacak!",
+      "sendika": "İşverenin azmettirmesiyle dövülen 60 yaşındaki Altın Erdoğan’ın davası 22 Kasım’a ertelendi: Sağlık raporu istendi",
+      "score": 0.2682850956916809
+    },
+    {
+      "denizgazete": "Liberya bayraklı konteyner gemisinin 3 mürettebatı denize atladı!",
+      "sendika": "İnsan genomu ilk defa eksiksiz olarak dizilendi – Sarah Bates (National Institutes of Health/Evrim Ağacı)",
+      "score": 0.23037761449813843
+    },
+    {
+      "denizgazete": "Rus balıkçı gemisi Vladivostok açıklarında aldı, kaptan hastaneye kaldırıldı",
+      "sendika": "Fındıklı halkı, kafes balıkçılığı için yapılması planlanan ÇED toplantısını iptal ettirdi",
+      "score": 0.1816684901714325
+    },
+    {
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "sendika": "Getir’de toplu işten çıkarma iddiası: 9 ülkeden 4 binin üzerinde işçi işten çıkarılacak",
+      "score": 0.2619248330593109
+    },
+    {
+      "denizgazete": "Mersin önlerinde bir konteyner gemisinde yangın çıktı",
+      "sendika": "İşçi Filmleri Festivali, Mersin’de açılışını yaptı",
+      "score": 0.3597586750984192
+    },
+    {
+      "denizgazete": " Samsun gözünü deniz turizmine dikti ",
+      "sendika": "İşçi Filmleri Festivali, Mersin’de açılışını yaptı",
+      "score": 0.2463814616203308
+    },
+    {
+      "denizgazete": " Biden yönetiminden denizcilik sektöründe sıfır emisyon çağrısı ",
+      "sendika": "KuirMar’ın “Onur Haftası Pikniği”ne gelen tehditler sonrası açıklama: “Okulun öznesiyiz, buradayız ve alışın gitmiyoruz”",
+      "score": 0.32796138525009155
+    },
+    {
+      "denizgazete": " Sağlık için Karadeniz'de kış ortasında denize girdi ",
+      "sendika": "Aydos Ormanı’nda millet bahçesi için ağaç katliamı sürüyor: “Bu da Kuzey Ormanları’nı saran dumansız yangın”",
+      "score": 0.29635268449783325
+    },
+    {
+      "denizgazete": " İstanbul'da tedirgin eden görüntü: Beykoz'da deniz çekildi! ",
+      "sendika": "Fındıklı halkı, kafes balıkçılığı için yapılması planlanan ÇED toplantısını iptal ettirdi",
+      "score": 0.3142659664154053
+    },
+    {
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "sendika": "Getir’de toplu işten çıkarma iddiası: 9 ülkeden 4 binin üzerinde işçi işten çıkarılacak",
+      "score": 0.2729112207889557
+    },
+    {
+      "denizgazete": " Karadeniz'in rengi değişti, görüntü şaşkına çevirdi ",
+      "sendika": "Gürcistan’ın Batı’ya katılma süreci hiç sonlanmayacak – Bryan Gigantino",
+      "score": 0.281459778547287
+    },
+    {
+      "denizgazete": " Elektrikli feribot tek bir şarj ile en uzun seyir rekorunu kırdı: 50 deniz mili ",
+      "sendika": "İngiltere’de demiryolu işçileri 30 yılın en büyük grevine çıkıyor",
+      "score": 0.3122459053993225
+    },
+    {
+      "denizgazete": " Yan yatan Lider Bulut isimli Ro/Ro gemisi kasıtlı olarak karaya oturtuldu ",
+      "sendika": "Batı öncülüğündeki küreselleşme sona erebilir ancak yeni küreselleşmenin yüzü ‘Doğulu’ olabilir – E. Ahmet Tonak & Vijay Prashad",
+      "score": 0.2405187487602234
+    },
+    {
+      "denizgazete": " Samsun, Türkiye'de en çok mavi bayraklı plajı olan 6. il ",
+      "sendika": "Tüketici güveni tarihin en düşük seviyesinde",
+      "score": 0.18544834852218628
+    }
+  ]
+}

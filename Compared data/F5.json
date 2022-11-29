@@ -1,0 +1,1380 @@
+{
+  "AnadoluAjansi": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "AnadoluAjansi": "Marmaris'teki orman yangını nedeniyle 20 ev tedbiren boşaltıldı\r  ",
+      "score": 0.20633041858673096
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "AnadoluAjansi": "'Varlık Barışı'ndan yararlanmak için son haftaya girildi ",
+      "score": 0.306783527135849
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "AnadoluAjansi": "Galatasaray, Okan Buruk ile resmi sözleşme imzaladı",
+      "score": 0.2529768943786621
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "AnadoluAjansi": "Bakan Kirişci: \"Şu an itibariyle çok daha iyi durumda olduğumuzu söyleyebiliriz\"\r  ",
+      "score": 0.23903751373291016
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "AnadoluAjansi": "Tüpraş, \"Çeşitlilik, Eşitlik ve Kapsayıcılık\" yaklaşımını açıkladı",
+      "score": 0.24326851963996887
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "AnadoluAjansi": "İsveç devlet televizyonu, YPG/PKK elebaşlarından Şahin ile röportaj yaptı",
+      "score": 0.22221820056438446
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "AnadoluAjansi": "Bakan Kirişci: Marmaris'teki orman yangınınına müdahale eden hava aracı sayısı 41'e ulaştı ",
+      "score": 0.3119271397590637
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "AnadoluAjansi": "Yurt içi piyasalar TCMB'nin faiz kararına odaklandı",
+      "score": 0.3348602056503296
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "AnadoluAjansi": "Malazgirt Savaşı'nın yapıldığı alanın tespiti sürüyor",
+      "score": 0.2340533584356308
+    }
+  ],
+  "Altinok": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "Altinok": "Muğla’da ormanlar yine yandı ciğerlerimiz kül oldu",
+      "score": 0.2270326316356659
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "Altinok": "Gözler hem Merkez’de hem rezervde: 20 yılın en düşük seviyesi bekleniyor",
+      "score": 0.3520931899547577
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "Altinok": "İHA: İstanbul’da ‘İran’ operasyonu… Suikast şebekesi çökertildi",
+      "score": 0.16868779063224792
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "Altinok": "Kıyı kenar çizgisi ile ilgili düzenlemeyi savunan Çevre Bakanlığı’ndan işgal itirafı",
+      "score": 0.19905006885528564
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "Altinok": "Kıyı kenar çizgisi ile ilgili düzenlemeyi savunan Çevre Bakanlığı’ndan işgal itirafı",
+      "score": 0.36562514305114746
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "Altinok": "Emekli Korgeneral Erdoğan Karakuş: ‘Kozmik Oda’ya girilmesiyle 848 kişi katledildi’",
+      "score": 0.19177120923995972
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "Altinok": "Emekli Korgeneral Erdoğan Karakuş: ‘Kozmik Oda’ya girilmesiyle 848 kişi katledildi’",
+      "score": 0.23426170647144318
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "Altinok": "Gözler hem Merkez’de hem rezervde: 20 yılın en düşük seviyesi bekleniyor",
+      "score": 0.26336100697517395
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "Altinok": "Gözler hem Merkez’de hem rezervde: 20 yılın en düşük seviyesi bekleniyor",
+      "score": 0.3033369183540344
+    }
+  ],
+  "bianet": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "bianet": "Cemal Kaşıkçı'nın nişanlısı, gazetecinin katilinin Ankara'da \"onur konuğu\" olmasını protesto etti",
+      "score": 0.3679584562778473
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "bianet": "\"Yayıncılık sektörü ısrarla direnmeli\"",
+      "score": 0.22456979751586914
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "bianet": "Petro-Maduro görüşmesi: Kolombiya-Venezuela sınırı açılacak mı?",
+      "score": 0.29373639822006226
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "bianet": "Haftada dört gün çalışma kimin yararına?",
+      "score": 0.3300822973251343
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "bianet": "İktidar",
+      "score": 0.30573320388793945
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "bianet": "Kayyım Batman’daki Cegerxwîn büstünü kaldırdı",
+      "score": 0.34261131286621094
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "bianet": "Kerkük’te koleradan ölüm, Süleymaniye’de en az 56 vaka",
+      "score": 0.21029029786586761
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "bianet": "İktidar",
+      "score": 0.17351436614990234
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "bianet": "Akşener'den “haksız tahrik indirimine” tepki",
+      "score": 0.3671710789203644
+    }
+  ],
+  "denizgazete": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "denizgazete": "LNG tankerinin 3. kaptanı Atlantik Okyanusu'nda kayboldu!",
+      "score": 0.28739145398139954
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "denizgazete": " Didim'de \"Deniz OMGİ\" sistemi kuruldu ",
+      "score": 0.23895490169525146
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "score": 0.265807181596756
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "score": 0.2744571566581726
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "denizgazete": "Yeni gemi inşa teşvikinde destek miktarları artırıldı",
+      "score": 0.232596755027771
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "score": 0.27521947026252747
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "denizgazete": "Türk Loydu Vakfı'nın 67. Olağan Genel Kurulu gerçkleştirildi",
+      "score": 0.4013674557209015
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "denizgazete": "106 bin DWT'luk Sema M MOVERS filosuna katıldı",
+      "score": 0.21692921221256256
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "denizgazete": "İTÜ MTAL 2030’lara damga vurma konusunda iddialı",
+      "score": 0.17242908477783203
+    }
+  ],
+  "dokuzsutun": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "dokuzsutun": "Diyarbakır'dan acı haber: 2 şehit ",
+      "score": 0.2076874077320099
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "dokuzsutun": "Bolu Abant İzzet Baysal Üniversitesi Diş Hekimliği tıbbi cihaz satın alacak",
+      "score": 0.2462649941444397
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "dokuzsutun": "Manisa Alaşehir Astiaş Sosyal Tesisleri personel alacak",
+      "score": 0.2358873188495636
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "dokuzsutun": "TÜRK – İŞ Genel Başkanı: Asgari ücrete zam şart",
+      "score": 0.6074062585830688
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "dokuzsutun": "AKP’den EYT açıklaması ",
+      "score": 0.5303866863250732
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "dokuzsutun": "Bayram ikramiyesiyle ilgili ayrıntılar belli oldu",
+      "score": 0.2733856439590454
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "dokuzsutun": "Tekirdağ'da icradan satılık daire",
+      "score": 0.37821435928344727
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "dokuzsutun": "Ankara'da icradan satılık bağ",
+      "score": 0.20859944820404053
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "dokuzsutun": "TÜRK – İŞ Genel Başkanı: Asgari ücrete zam şart",
+      "score": 0.564611554145813
+    }
+  ],
+  "buyuklimanpostasi": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "buyuklimanpostasi": "SEVİLEN KOMUTAN İLÇEYE VEDA EDİYOR",
+      "score": 0.24007657170295715
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "buyuklimanpostasi": "KAYMAKAM UZAN’DAN KAN BAĞIŞINA DESTEK  ",
+      "score": 0.2370627373456955
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "buyuklimanpostasi": "VAKFIKEBİR SİVİL BANDO TAKIMI İLE SÖYLEŞİ GERÇEKLEŞTİRDİK",
+      "score": 0.3140217065811157
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "buyuklimanpostasi": "ÇALIŞKAN MUHTAR HİZMETLERE DEVAM EDİYOR",
+      "score": 0.2685317397117615
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "buyuklimanpostasi": "KİMSE AK PARTİYE ÇEVRE DERSİ VERMEYE KALKMASIN!",
+      "score": 0.22611293196678162
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "buyuklimanpostasi": "BU GURUR TONYA MYO’NUN",
+      "score": 0.36360079050064087
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "buyuklimanpostasi": "VAKFIKEBİR'DEN 61 ÜLKEYE İHRACAT  ",
+      "score": 0.40310239791870117
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "buyuklimanpostasi": "VAKFIKEBİR'DEN 61 ÜLKEYE İHRACAT  ",
+      "score": 0.2710520327091217
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "buyuklimanpostasi": "İLÇE MİLLİ EĞİTİM MÜDÜRÜ KİM OLACAK!  ",
+      "score": 0.15400567650794983
+    }
+  ],
+  "haksozhaber": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "haksozhaber": "Katlettikleri başbakanın geriye kalan tek dişini ailesine teslim ettiler",
+      "score": 0.44495129585266113
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "haksozhaber": "Sapkınlık üzerinden prim yapmaya çalışan giyim mağazası!",
+      "score": 0.230768084526062
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "haksozhaber": "Gümüşhane'de arazide Rus yapımı İHA bulundu",
+      "score": 0.22311818599700928
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "haksozhaber": "Milletvekili maaşına 17 bin lira zam geliyor",
+      "score": 0.5480725765228271
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "haksozhaber": "AK Parti'de 'dezenformasyon' çatlağı",
+      "score": 0.45262038707733154
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "haksozhaber": "“Katil Herzog, Türkiye’den defol!”",
+      "score": 0.21893735229969025
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "haksozhaber": "Türkiye’deki işletmelerin kaçı %25 Türkçe kuralına uyuyor?!",
+      "score": 0.26471906900405884
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "haksozhaber": "AB'den yoksul ülkelere 600 milyon avro destek taahhüdü",
+      "score": 0.25317761301994324
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "haksozhaber": "Milletvekili maaşına 17 bin lira zam geliyor",
+      "score": 0.40322819352149963
+    }
+  ],
+  "IHA": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "IHA": "Otobüs şoförü baygınlık geçiren kız çocuğunu hastaneye yetiştirdi",
+      "score": 0.30985039472579956
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "IHA": "2 yıl sonra pandemisiz ilk Kurban Bayramı, satıcı ile alıcılar el sıkışarak pazarlık yapacak",
+      "score": 0.30007389187812805
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "IHA": "Türkiye ve KKTC ortak tatbikatı Şehit Teğmen Caner Gönyeli-2022 tamamlandı",
+      "score": 0.23502016067504883
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "IHA": "Cuma Mesajları Resimli ve Kısa 17 Haziran 2022 cuma sms'leri",
+      "score": 0.28891634941101074
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "IHA": "TSK'nın 10 ton su atan Chinook helikopteri göreve başladı",
+      "score": 0.19713973999023438
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "IHA": "Antalya'da yeni evine kavuşan yangınzedenin sevinç gözyaşları",
+      "score": 0.32365286350250244
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "IHA": "İstanbul'un yanı başındaki Tekirdağ'da mor günler başladı",
+      "score": 0.2496829628944397
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "IHA": "Kaçak kazı yapan defineciler buldu! 7/24 nöbet tutuluyor",
+      "score": 0.19073174893856049
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "IHA": "Evde canı sıkılan kadın hayvancılık işine girip 15 yılda servet sahibi oldu!",
+      "score": 0.26183003187179565
+    }
+  ],
+  "Ilerigazetesi": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "Ilerigazetesi": "Eşini öldürüp intihar etti",
+      "score": 0.6505565643310547
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "Ilerigazetesi": "SAADET PARTiSi’NDE DEPREM",
+      "score": 0.24880018830299377
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "Ilerigazetesi": "TERMAL BÖLGEYE ALINDI",
+      "score": 0.2630714178085327
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "Ilerigazetesi": "Hizmet alımı",
+      "score": 0.2923201024532318
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "Ilerigazetesi": "TEŞKiLAT GÜCÜNE  GÜÇ KATIYOR",
+      "score": 0.23972484469413757
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "Ilerigazetesi": "TEŞKiLAT GÜCÜNE  GÜÇ KATIYOR",
+      "score": 0.24445262551307678
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "Ilerigazetesi": "Taşınmaz satışı",
+      "score": 0.3706972002983093
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "Ilerigazetesi": "Milli Takım kadrosu belli oldu",
+      "score": 0.32383793592453003
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "Ilerigazetesi": "Milli Takım kadrosu belli oldu",
+      "score": 0.2627429962158203
+    }
+  ],
+  "Timeturk": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "Timeturk": "AhsenTV sunucusu Bülent Yapraklıoğlu saldırıya uğradı",
+      "score": 0.32537010312080383
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "Timeturk": "Şekerbank’tan 'Sanal Hasat POS' ile online alışverişlerde sıfır faiz imkanı",
+      "score": 0.29951012134552
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "Timeturk": "Galatasaray'dan yılın transfer bombası Talisca!",
+      "score": 0.5417172908782959
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "Timeturk": "Resmi Gazete'de yayımlandı: İşte sağlık çalışanlarına yapılacak ek ödeme oranları",
+      "score": 0.5349187850952148
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "Timeturk": "Resmi Gazete'de yayımlandı: İşte sağlık çalışanlarına yapılacak ek ödeme oranları",
+      "score": 0.3735917806625366
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "Timeturk": "Anlaşma sağlandı! Karagümrük'ten Hilary Gong hamlesi",
+      "score": 0.35129886865615845
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "Timeturk": "AB'den Bulgaristan-Türkiye sınır bölgelerine 34,4 milyon avro yatırım bekleniyor",
+      "score": 0.4906198978424072
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "Timeturk": "Merkez Bankası faiz kararını açıkladı",
+      "score": 0.39864563941955566
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "Timeturk": "En düşük öğretmen maaşı ne kadar? 2022 Temmuz 9-1 sözleşmeli öğretmen maaşına ne kadar zam gelecek? En düşük kadrolu öğretmen maaşı 9 bin TL mi oldu?",
+      "score": 0.4136125147342682
+    }
+  ],
+  "turkuazgazetesi": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "turkuazgazetesi": "Annesini sokak ortasında 3 kurşunla öldürdü!",
+      "score": 0.5587080717086792
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "turkuazgazetesi": "Erdoğan Açıkladı Dolar 12 TL Düşecek",
+      "score": 0.3232545554637909
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "turkuazgazetesi": "Türk robotu ‘TARQAN’ dünyaya açılıyor ",
+      "score": 0.21034575998783112
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "turkuazgazetesi": "Büyükşehir Yol Bakım Timi her yerde",
+      "score": 0.2253212332725525
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "turkuazgazetesi": "O Kanun Teklifi Mecliste",
+      "score": 0.4488423466682434
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "turkuazgazetesi": "Pelin Hürman kimdir?",
+      "score": 0.4241176247596741
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "turkuazgazetesi": "Borsa güne yükselişle başladı ",
+      "score": 0.34343695640563965
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "turkuazgazetesi": "Serbest piyasada döviz fiyatları ",
+      "score": 0.4348021447658539
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "turkuazgazetesi": "Serbest piyasada döviz fiyatları ",
+      "score": 0.4348021447658539
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "turkuazgazetesi": "İTO’dan ekmek açıklaması: İTO’ya bağlı fırınlarda 210 gram ekmeğin satış fiyatı halen 3 TL’dir",
+      "score": 0.21353334188461304
+    }
+  ],
+  "ahaber": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "ahaber": " Isparta’da kan donduran olayda gelişme! 2 aylık hamile Rabia'yı öldürüp kaçan cani koca yakalandı ",
+      "score": 0.5250588655471802
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "ahaber": "İnternet aşkı milyoner çıktı! Şatoda şaşırtan son",
+      "score": 0.2870195209980011
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "ahaber": "Yeni hoca resmen açıklandı! Sırada F.Bahçe'nin eski yıldızı var",
+      "score": 0.4222874045372009
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "ahaber": "AK Parti'den ek zam açıklaması",
+      "score": 0.4914364814758301
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "ahaber": "AK Parti'den ek zam açıklaması",
+      "score": 0.7133474349975586
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "ahaber": "Billur Kalkavan'dan haber var!",
+      "score": 0.94255530834198
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "ahaber": "Afet kriminal inceleme birimi hayran bıraktı!",
+      "score": 0.24597033858299255
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "ahaber": "Afet kriminal inceleme birimi hayran bıraktı!",
+      "score": 0.24672846496105194
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "ahaber": "En düşük emekli maaşı ne kadar olacak?",
+      "score": 0.723943829536438
+    }
+  ],
+  "ensonhaber": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "ensonhaber": " Onur Tuna, Yasemin Yazıcı ile aşk yaşamaya başladı ",
+      "score": 0.30938971042633057
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "ensonhaber": "Brad Pitt, şatosunda hazine aradığını itiraf etti ",
+      "score": 0.2527702748775482
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "ensonhaber": " Galatasaray Okan Buruk'la görüşmelere başlandığını KAP'a bildirdi ",
+      "score": 0.27851420640945435
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "ensonhaber": "Sinemaseverleri hafta sonu bekleyen filmler",
+      "score": 0.15560728311538696
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "ensonhaber": " Süleyman Soylu'dan muhalefetin 'uçak-helikopter yok' iddialarına tepki ",
+      "score": 0.3868597149848938
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "ensonhaber": "Billur Kalkavan'dan haber var",
+      "score": 0.9329223036766052
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "ensonhaber": " Galatasaray Okan Buruk'la görüşmelere başlandığını KAP'a bildirdi ",
+      "score": 0.2803459167480469
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "ensonhaber": "Beş Şehir ve Huzur kitaplarının yazarı Ahmet Hamdi Tanpınar, 121 yaşında",
+      "score": 0.20036378502845764
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "ensonhaber": "Kocaeli'de sokak ortasındaki çıplak kadın",
+      "score": 0.2316802442073822
+    }
+  ],
+  "Gerçekgündem": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "Gerçekgündem": "Öldürdüğü kızın öz babası olduğunu televizyon programında öğrenmiş",
+      "score": 0.6033886671066284
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "Gerçekgündem": "Kur korumalı mevduat miktarı belli oldu",
+      "score": 0.42013782262802124
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "Gerçekgündem": "Kolombiya'nın yeni cumhurbaşkanı, Venezuela ile sınırların açılmasını görüştü",
+      "score": 0.26393163204193115
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "Gerçekgündem": "AKP'den Erdoğan'a zam savunması: \"Milletvekili emekli maaşlarını cumhurbaşkanımızın bütçesine endeksli olmaktan çıkaralım\"",
+      "score": 0.4188980460166931
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "Gerçekgündem": "AKP'den Erdoğan'a zam savunması: \"Milletvekili emekli maaşlarını cumhurbaşkanımızın bütçesine endeksli olmaktan çıkaralım\"",
+      "score": 0.5300211906433105
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "Gerçekgündem": "Kurbanlık fiyatları yüzde 100'den fazla zamlandı",
+      "score": 0.27604809403419495
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "Gerçekgündem": "Kur korumalı mevduat miktarı belli oldu",
+      "score": 0.305849552154541
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "Gerçekgündem": "Kur korumalı mevduat miktarı belli oldu",
+      "score": 0.5031232833862305
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "Gerçekgündem": "AKP'den Erdoğan'a zam savunması: \"Milletvekili emekli maaşlarını cumhurbaşkanımızın bütçesine endeksli olmaktan çıkaralım\"",
+      "score": 0.4675593376159668
+    }
+  ],
+  "HaberAktuel": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "HaberAktuel": "Ünlü oyuncu baba oldu",
+      "score": 0.5261099338531494
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "HaberAktuel": "Elon Musk: Tesla milyarlarca dolar kaybetti",
+      "score": 0.2756864130496979
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "HaberAktuel": "Fenerbahçe’de bir ayrılık daha",
+      "score": 0.3205522298812866
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "HaberAktuel": "AK Parti’den zam açıklaması",
+      "score": 0.43053069710731506
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "HaberAktuel": "AK Parti’den zam açıklaması",
+      "score": 0.5924704670906067
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "HaberAktuel": "Okan Bayülgen kalp spazmı geçirdi",
+      "score": 0.38148656487464905
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "HaberAktuel": "Kılıçdaroğlu: Hepsini devletleştireceğiz",
+      "score": 0.28965914249420166
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "HaberAktuel": "Merkez Bankası kararını açıkladı",
+      "score": 0.4986270070075989
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "HaberAktuel": "AK Parti’den cumhurbaşkanı maaşı için açıklama",
+      "score": 0.47118768095970154
+    }
+  ],
+  "Habervinti": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "Habervinti": " Nişanlısının yüzüne kezzap adan adamın kan donduran ifadesi ",
+      "score": 0.5189605951309204
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "Habervinti": " Bitcositin çöktü! Kripto parada deprem! ",
+      "score": 0.481952965259552
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "Habervinti": " Fenerbahçe Süper Lig’in yıldızını kaptı! ",
+      "score": 0.5639418959617615
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "Habervinti": "Numan Kurtulmuş'tan flaş asgari ücret açıklaması",
+      "score": 0.4217078983783722
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "Habervinti": "HDP'den muhalefete fezleke çağrısı",
+      "score": 0.41095030307769775
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "Habervinti": " Mustafa Sandal, Melis Sütşurup ile evlendi ",
+      "score": 0.3946460485458374
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "Habervinti": "Katarlı dolar milyarderi süper kalite Türk dizileri çekecek",
+      "score": 0.3657922148704529
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "Habervinti": "Katarlı dolar milyarderi süper kalite Türk dizileri çekecek",
+      "score": 0.3297525942325592
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "Habervinti": "Numan Kurtulmuş'tan flaş asgari ücret açıklaması",
+      "score": 0.4150550961494446
+    }
+  ],
+  "Medyatava": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "Medyatava": "Öldürdüğü kızın babası olduğunu TV'de öğrenmiş",
+      "score": 0.6264289021492004
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "Medyatava": "Kripto paraya yatırım vaadiyle dolandırdılar",
+      "score": 0.4158945083618164
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "Medyatava": "Mehmet Büyükekşi'den Fenerbahçe açıklaması",
+      "score": 0.3454730808734894
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "Medyatava": "Akşener'den emekli maaşı açıklaması",
+      "score": 0.36397647857666016
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "Medyatava": "Akşener'den emekli maaşı açıklaması",
+      "score": 0.3803071081638336
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "Medyatava": "Tuğçe Kazaz'dan dış politika yorumu",
+      "score": 0.31235212087631226
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "Medyatava": "Türk dizileri çekmek için ortak şirket kurdular",
+      "score": 0.3607209324836731
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "Medyatava": "Gözler Merkez Bankası'nda",
+      "score": 0.6214385032653809
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "Medyatava": "Akşener'den emekli maaşı açıklaması",
+      "score": 0.7623453140258789
+    }
+  ],
+  "Hakkariobjektifhaber": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "Hakkariobjektifhaber": "Birlikte yaşadığı kadını ve kızını öldüren kişi yaşamına son verdi",
+      "score": 0.7194750308990479
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "Hakkariobjektifhaber": "Avrupa Birliği, Rusya'ya karşı yaptırımların kapsamını genişletmeyi planlıyor: Yeni hedef altın",
+      "score": 0.3278840482234955
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "Hakkariobjektifhaber": "Galatasaray'da teknik direktörlüğe Okan Buruk getiriliyor",
+      "score": 0.19238066673278809
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "Hakkariobjektifhaber": "Benzine indirim geliyor",
+      "score": 0.3944610357284546
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "Hakkariobjektifhaber": "Çelik'ten Gültekin açıklaması",
+      "score": 0.3827386498451233
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "Hakkariobjektifhaber": "Vali Akbıyık'tan TDV'ye kurban bağışı",
+      "score": 0.2665153443813324
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "Hakkariobjektifhaber": "7 ildeki 24 taşınmaz satıldı",
+      "score": 0.4314490556716919
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "Hakkariobjektifhaber": "7 ildeki 24 taşınmaz satıldı",
+      "score": 0.32094240188598633
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "Hakkariobjektifhaber": "Kurtulmuş'tan asgari ücret açıklaması",
+      "score": 0.4171134829521179
+    }
+  ],
+  "TRThaber": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "TRThaber": "Cumhurbaşkanı Erdoğan'dan Ustaosmanoğlu için başsağlığı mesajı",
+      "score": 0.28803133964538574
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "TRThaber": "Teröre kaynak sağlayanların mal varlıkları donduruldu",
+      "score": 0.3176473081111908
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "TRThaber": "İtalya'daki kazada ölenlerin cenazeleri getiriliyor",
+      "score": 0.21324054896831512
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "TRThaber": "Aşırı sıcaklıkla ani yağışlar artabilir",
+      "score": 0.20063351094722748
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "TRThaber": "DBP'li Aydeniz'in dokunulmazlığının kaldırılması için hazırlık komisyonu oluşturuldu",
+      "score": 0.4022221863269806
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "TRThaber": "Karahantepe'de yeni kalıntıların izi sürülecek",
+      "score": 0.21131163835525513
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "TRThaber": "Merkez Bankası rezervleri 101 milyar dolar oldu",
+      "score": 0.28208282589912415
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "TRThaber": "Merkez Bankası rezervleri 101 milyar dolar oldu",
+      "score": 0.5213528871536255
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "TRThaber": "Bakan Soylu: Yangının nasıl çıktığına dair bir tespitimiz ve kimliğimiz var",
+      "score": 0.22203148901462555
+    }
+  ],
+  "Dikgazete": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "Dikgazete": "Şehit Piyade Uzman Çavuş Sercan Baş son yolculuğuna uğurlandı",
+      "score": 0.44694703817367554
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "Dikgazete": "Emtia piyasasında satış dalgası resesyon endişeleriyle derinleşti",
+      "score": 0.3271244168281555
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "Dikgazete": "CSKA Moskova'dan Yusuf Yazıcı'ya veda",
+      "score": 0.22606685757637024
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "Dikgazete": "Bakan Karaismailoğlu: 5G'ye azami ölçüde yerli ve milli şebeke ürünlerini kullanarak geçeceğiz",
+      "score": 0.22630348801612854
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "Dikgazete": "NATO: Türkiye'nin meşru endişelerini gidermek için çalışıyoruz",
+      "score": 0.3141624927520752
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "Dikgazete": "Oğluyla ödül aldı -Selçuk Aka, magazin dünyasından bildiriyor-",
+      "score": 0.34437400102615356
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "Dikgazete": "Tekirdağlı milli yüzücüler Sırbistan'dan 22 madalyayla döndü",
+      "score": 0.3248975872993469
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "Dikgazete": "Tekirdağlı milli yüzücüler Sırbistan'dan 22 madalyayla döndü",
+      "score": 0.3248975872993469
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "Dikgazete": "Merkez Bankası rezervleri 101 milyar dolar oldu",
+      "score": 0.5213531255722046
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "Dikgazete": "Halep, hangi Suriye’nin başkenti olacak? -Ömür Çelikdönmez yazdı-",
+      "score": 0.2803274393081665
+    }
+  ],
+  "KamuBulteni": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "KamuBulteni": "Sosyal medyada tanıştığı eski nişanlısı hayatını...",
+      "score": 0.415692538022995
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "KamuBulteni": "Son 20 Yılın En Sert Faiz Artışını Yaptılar",
+      "score": 0.3169803023338318
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "KamuBulteni": "TFF’nin Yeni Başkanı Belli Oldu TFF Tarihinde Bir İlk Yaşandı",
+      "score": 0.25399085879325867
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "KamuBulteni": "TRT İş İlanları: 47 Meslekte En Az Lise Mezunu Personel Alımı",
+      "score": 0.30899184942245483
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "KamuBulteni": "Ak Parti'den  Bedelli Askerlik  Affı Düzenlemesine İlişkin  Açıklama",
+      "score": 0.5056707262992859
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "KamuBulteni": "SON DAKİKA! Fahrettin Koca Açıklama Yapıyor - Tedbirler Yeniden mi Gelecek Sorusuna Yanıt Geldi! ",
+      "score": 0.3232606053352356
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "KamuBulteni": "Kamu Üniversitesi Lise Önlisans Lisans 44 Sözleşmeli Personel İlanı Duyurdu",
+      "score": 0.3035064935684204
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "KamuBulteni": "Merkez Bankası Faiz Kararını Açıkladı",
+      "score": 0.3983389437198639
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "KamuBulteni": "Akşener Noktayı Koydu Cumhurbaşkanı Olacak Mı?",
+      "score": 0.4376075863838196
+    }
+  ],
+  "Medyafaresi": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "Medyafaresi": "Sezgin Tanrıkulu'nun Oğlu ve Yeğeni Bıçaklandı! Emniyetten Açıklama Geldi",
+      "score": 0.4641205668449402
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "Medyafaresi": "SON DAKİKA 4 Haziran 2022 Cumartesi Reyting Sonuçları: Türkiye Faroe Adaları, Kardeşlerim, Survivor",
+      "score": 0.2954232394695282
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "Medyafaresi": "Brezilyalı Eski Güzellik Kraliçesi Gleycy Correia, Bademcik Ameliyatına Girdi Ve Hayatını Kaybetti",
+      "score": 0.36321765184402466
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "Medyafaresi": "Emeklilere Temmuzda Çifte Ödeme! Zamlı Maaş ve Bayram İkramiyesi Ne Kadar?",
+      "score": 0.46851009130477905
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "Medyafaresi": "Asgari Ücrete Zam, Öğrenci Affı, EYT ve 3600 Ek Gösterge Erken Seçim Stratejisi Mi?",
+      "score": 0.3401784896850586
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "Medyafaresi": "Demet Evgar'ın Bornozlu Hamilelik Pozlarına Beğeni Yağdı",
+      "score": 0.34079718589782715
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "Medyafaresi": " Cancri Jewelry Skandalı: 110 Bin Kişiyi Dolandırıp Kaçmışlar",
+      "score": 0.26496514678001404
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "Medyafaresi": "ROK'un FETÖ'cü Bank Asya'dan Aldığı Krediyi Aydın Doğan Ahmet Hakan'a Yazdırmış",
+      "score": 0.2991737723350525
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "Medyafaresi": "Asgari Ücrete Zam, Öğrenci Affı, EYT ve 3600 Ek Gösterge Erken Seçim Stratejisi Mi?",
+      "score": 0.4854854345321655
+    }
+  ],
+  "Mynet": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "Mynet": "Şehit cenazesinde yürek yakan feryat! Eşini bu sözlerle uğurladı",
+      "score": 0.4713287949562073
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "Mynet": "Yıllarca kullanabileceğiniz hem kaliteli hem dayanıklı en iyi basketbol topları",
+      "score": 0.25390875339508057
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "Mynet": "Mane'nin yeni takımı resmen belli oldu! ",
+      "score": 0.39554452896118164
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "Mynet": "26 bin lirayı geçecek! Onların da maaşlarına ara zam yapıldı",
+      "score": 0.5187658667564392
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "Mynet": "AK Parti'den asgari ücret ve EYT açıklaması",
+      "score": 0.5713315606117249
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "Mynet": "Kurbağa, 110 bin TL'ye patladı! Suçüstü...",
+      "score": 0.34450969099998474
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "Mynet": "Vizyona az kaldı! Türkiye galası yapıldı",
+      "score": 0.28009486198425293
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "Mynet": "Oyuncu kadrosu açıklandı! Dev isimler boy gösterecek",
+      "score": 0.2777899503707886
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "Mynet": "AK Parti'den asgari ücret ve EYT açıklaması",
+      "score": 0.5203637480735779
+    }
+  ],
+  "OdaTV": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "OdaTV": "Hacı Sabancı “donat”lı doğum günü paylaşımı",
+      "score": 0.27636945247650146
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "OdaTV": "Detaylar ortaya çıktı: Adım adım 36 milyonluk vurgun",
+      "score": 0.23377898335456848
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "OdaTV": "Fenerbahçe beraberlikle başladı",
+      "score": 0.4827614426612854
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "OdaTV": "Garajda ayı kavgası",
+      "score": 0.2905108332633972
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "OdaTV": "Soylu “helikopter” sorusuna “çöp arabası” yanıtını verdi",
+      "score": 0.30531230568885803
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "OdaTV": "Soylu “helikopter” sorusuna “çöp arabası” yanıtını verdi",
+      "score": 0.30531230568885803
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "OdaTV": "Kanserle mücadele eden Billur Kalkavan'dan güzel haber",
+      "score": 0.776299238204956
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "OdaTV": "Detaylar ortaya çıktı: Adım adım 36 milyonluk vurgun",
+      "score": 0.3301095962524414
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "OdaTV": "Hürriyet ve Türkiye açıkladı: Seçim tarihi",
+      "score": 0.24421925842761993
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "OdaTV": "Mahmut Ustaosmanoğlu vefat etti: Çarşamba yasta",
+      "score": 0.18343374133110046
+    }
+  ],
+  "NTV": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "NTV": "3 YIL İÇİNDE 3 KIZI DA öldü",
+      "score": 0.55642169713974
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "NTV": "AVAX (Avalanche) coin nedir? (AVAX nasıl satın alınır?)",
+      "score": 0.4525604546070099
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "NTV": "Fatih Terim'den nostaljik paylaşım",
+      "score": 0.2989934980869293
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "NTV": "2500 kelimelik yeni özellik    ",
+      "score": 0.25113725662231445
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "NTV": "Polise yumruk atan milletvekili  için yeni karar",
+      "score": 0.33955734968185425
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "NTV": "Frida Kahlo kimdir? (Tahta Bacak Frida Kahlo'nun hayatı)",
+      "score": 0.28954750299453735
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "NTV": "konut kredilerine düzenleme",
+      "score": 0.2877658009529114
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "NTV": "Merkez Faiz kararını açıkladı",
+      "score": 0.3926813006401062
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "NTV": "2022 Kurban Bayramı ne zaman? (Kurban Bayramı tatili kaç gün olacak?)",
+      "score": 0.2688917815685272
+    }
+  ],
+  "pressturk": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "pressturk": "Masterchef jürisi Somer Şef'ten seks itirafı",
+      "score": 0.2880747616291046
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "pressturk": "Çok sayıda kişi ve şirketin mal varlığı donduruldu",
+      "score": 0.3084039092063904
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "pressturk": "Mesut Özil cephesinden flaş sözleşme açıklaması!",
+      "score": 0.3158298432826996
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "pressturk": "Sosyal güvenlik uzmanı zamlı maaş tablosunu paylaştı! İşte maaşlara gelecek zam oranı...",
+      "score": 0.5444554090499878
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "pressturk": "AK Parti’de kulisler karıştı! ‘Bakanlar ve vekiller arasında gerginlik’",
+      "score": 0.4873516261577606
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "pressturk": "Sosyal güvenlik uzmanı zamlı maaş tablosunu paylaştı! İşte maaşlara gelecek zam oranı...",
+      "score": 0.23417557775974274
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "pressturk": "Çok sayıda kişi ve şirketin mal varlığı donduruldu",
+      "score": 0.2609732151031494
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "pressturk": "Kulüplerin harcama limitleri belli oldu",
+      "score": 0.3382090926170349
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "pressturk": "Sosyal güvenlik uzmanı zamlı maaş tablosunu paylaştı! İşte maaşlara gelecek zam oranı...",
+      "score": 0.5006245374679565
+    }
+  ],
+  "sondakika": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "sondakika": "Baba, oğlunun bıçaklandığını görünce kendinden geçti! Saldırganı tabancayla vurarak öldürdü",
+      "score": 0.525818943977356
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "sondakika": "Kurtlar Vadisi'nin Kılıç'ı Attila Olgaç: Necati Şaşmaz'la ilgili çıkan tarikat haberleri sonrası ayrılacaktık, iki misli para verdiler",
+      "score": 0.310343861579895
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "sondakika": "Fenerbahçe transferde gaza bastı! Emre Mor'un transferi için oyuncunun menajeri İstanbul'a davet edildi",
+      "score": 0.5714426636695862
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "sondakika": "Kılıçdaroğlu'nun \"Erdoğan maaşına zam istedi\" sözlerine AK Parti'den yanıt geldi: 3 bin milletvekilinin mağduriyeti nedeniyle artışa onay verildi",
+      "score": 0.47307273745536804
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "sondakika": "Kılıçdaroğlu'nun \"Erdoğan maaşına zam istedi\" sözlerine AK Parti'den yanıt geldi: 3 bin milletvekilinin mağduriyeti nedeniyle artışa onay verildi",
+      "score": 0.5663536190986633
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "sondakika": "Kanser tedavisi gören Billur Kalkavan müjdeyi verdi: Beynim tertemiz, lezyonlar çürüyor",
+      "score": 0.5187751054763794
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "sondakika": "Fenerbahçe 9 yabancı futbolcusunu transfer listesine koydu! İşte belirlenen bonservis bedelleri",
+      "score": 0.2199273556470871
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "sondakika": "Merkez Bankası, haziran ayında da faizi yüzde 14'te sabit bıraktı!",
+      "score": 0.25410324335098267
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "sondakika": "Kılıçdaroğlu'nun \"Erdoğan maaşına zam istedi\" sözlerine AK Parti'den yanıt geldi: 3 bin milletvekilinin mağduriyeti nedeniyle artışa onay verildi",
+      "score": 0.4841904640197754
+    }
+  ],
+  "t24": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "t24": "Yargıtay, Canan Kaftancıoğlu’nun 3 davadan aldığı cezaları onadı;  siyasi parti üyeliği düşürüldü",
+      "score": 0.3284265100955963
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "t24": "Kur korumalı mevduatta biriken tutar 992 milyar TL'ye yükseldi",
+      "score": 0.42152538895606995
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "t24": "Emre Mor için dev kapışma; Beşiktaş'ın ardından Fenerbahçe de devrede!",
+      "score": 0.4952660799026489
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "t24": "Akşener: Asgari ücret bugünkü zamlara uygun hale getirilmeli; en düşük emeklinin maaşı asgari ücret kadar olmalı",
+      "score": 0.5007296800613403
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "t24": "CHP'li Özkoç: Maaşı arttırmak çözüm değil, çözüm zamları durdurmaktır",
+      "score": 0.43251878023147583
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "t24": "Külliye'de Suudi Prens Selman için müzikli yemek",
+      "score": 0.29665401577949524
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "t24": "Kur korumalı mevduatta biriken tutar 992 milyar TL'ye yükseldi",
+      "score": 0.48184165358543396
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "t24": "Kur korumalı mevduatta biriken tutar 992 milyar TL'ye yükseldi",
+      "score": 0.4576863944530487
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "t24": "Akşener: Asgari ücret bugünkü zamlara uygun hale getirilmeli; en düşük emeklinin maaşı asgari ücret kadar olmalı",
+      "score": 0.8744758367538452
+    }
+  ],
+  "sendika": [
+    {
+      "F5": "Sevgilisi ve 3 yaşındaki Nazlı'yı öldürüp intihar etmişti! Öldürdüğü kızının babası olduğunu TV'de öğrenmiş",
+      "sendika": "Evli olduğu erkeği öldüren kadını mahkemede kayınpederi savundu, çıkışta kayınvalidesi çiçekle karşıladı",
+      "score": 0.48256996273994446
+    },
+    {
+      "F5": "Bitcoin'de büyük kaybettiler! Yasal ödeme aracı olarak kabul eden ilk ülke olmuştu: 'Almaya devam' sinyali...",
+      "sendika": "Yılda 7 ton altın çıkarılan maden sahası AKP’ye yakın olan bir şirkete mi satılıyor?",
+      "score": 0.31649142503738403
+    },
+    {
+      "F5": "Fenerbahçe Sergio Oliveira için harekete geçti",
+      "sendika": "Kolombiya’da solun tarihi zaferi: Yeni Cumhurbaşkanı sol blok adayı Gustavo Petro",
+      "score": 0.39928948879241943
+    },
+    {
+      "F5": "Fazla mesai ücretlerine zam geliyor!",
+      "sendika": "Büro emekçileri yurdun dört bir yanında sokakta: “3600 ek gösterge büro emekçilerine de verilsin!”",
+      "score": 0.5070539712905884
+    },
+    {
+      "F5": "AK Parti'den ek bütçe tartışmalarına yanıt",
+      "sendika": "TBMM’de Karma Komisyon DBP Eş Genel Başkanı Saliha Aydeniz’in dokunulmazlığının kaldırılması için toplandı",
+      "score": 0.408098042011261
+    },
+    {
+      "F5": "Billur Kalkavan'dan yeni haber geldi",
+      "sendika": "Evli olduğu erkeği öldüren kadını mahkemede kayınpederi savundu, çıkışta kayınvalidesi çiçekle karşıladı",
+      "score": 0.21541810035705566
+    },
+    {
+      "F5": "Yabancılar 341 milyon dolarlık varlık sattı",
+      "sendika": "41 derece sıcaklığa 43 saatlik yolculuk ve mesleğin onuruna sahip çıkmak",
+      "score": 0.32100263237953186
+    },
+    {
+      "F5": "Merkez Bankası'nın toplam rezervleri açıklandı",
+      "sendika": "Getir’de toplu işten çıkarma iddiası: 9 ülkeden 4 binin üzerinde işçi işten çıkarılacak",
+      "score": 0.22227256000041962
+    },
+    {
+      "F5": "Akşener: En düşük emekli maaşı asgari ücret kadar olmalı",
+      "sendika": "Büro emekçileri yurdun dört bir yanında sokakta: “3600 ek gösterge büro emekçilerine de verilsin!”",
+      "score": 0.34976857900619507
+    }
+  ]
+}
