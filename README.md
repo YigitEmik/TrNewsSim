@@ -1,2 +1,2 @@
 # TrNewsSim
-Turkish News Similarity comparison project
+Detection of Originality in Turkish News Websites Using Bert Model
